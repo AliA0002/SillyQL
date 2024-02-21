@@ -1,0 +1,26 @@
+CREATE table1 2 string string thing which
+INSERT INTO table1 3 ROWS
+mufasa tiger
+nala tigeress
+banzai hyena
+PRINT FROM table1 1 thing WHERE which = tiger
+CREATE table2 3 string int string thing weight which
+INSERT INTO table2 3 ROWS
+harry 300 giraffe
+mufasa 200 tiger
+george 500 elephant
+JOIN table1 AND table2 WHERE which = which AND PRINT 2 thing 1 thing 2
+JOIN table1 AND table2 WHERE thing = which AND PRINT 2 thing 1 which 2
+#random comment
+DELETE FROM table2 WHERE weight > 100
+JOIN table1 AND table2 WHERE which = which AND PRINT 2 thing 1 thing 2
+JOIN table1 AND table2 WHERE thing = which AND PRINT 2 thing 1 which 2
+GENERATE FOR table1 hash INDEX ON which
+PRINT FROM table1 2 thing which ALL
+PRINT FROM table1 1 which WHERE thing = nala
+GENERATE FOR table1 bst INDEX ON thing
+PRINT FROM table1 1 thing WHERE which = hyena
+PRINT FROM table1 1 which ALL
+REMOVE table1
+REMOVE table2
+QUIT

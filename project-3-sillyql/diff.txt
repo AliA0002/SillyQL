@@ -1,0 +1,2002 @@
+% New table enact with column(s) opposed purpose regulation d	% New table enact with column(s) opposed purpose regulation d
+% Added 364 rows to enact from position 0 to 363		% Added 364 rows to enact from position 0 to 363
+% Printed 0 matching rows from enact				% Printed 0 matching rows from enact
+% Added 368 rows to enact from position 364 to 731		% Added 368 rows to enact from position 364 to 731
+% Printed 646 matching rows from enact				% Printed 646 matching rows from enact
+% Deleted 438 rows from enact					% Deleted 438 rows from enact
+% Added 327 rows to enact from position 294 to 620		% Added 327 rows to enact from position 294 to 620
+% Deleted 3 rows from enact					% Deleted 3 rows from enact
+% Added 308 rows to enact from position 618 to 925		% Added 308 rows to enact from position 618 to 925
+% Added 378 rows to enact from position 926 to 1303		% Added 378 rows to enact from position 926 to 1303
+% Created hash index for table enact on column variation	% Created hash index for table enact on column variation
+% Printed 1304 matching rows from enact				% Printed 1304 matching rows from enact
+% Added 351 rows to enact from position 1304 to 1654		% Added 351 rows to enact from position 1304 to 1654
+% Printed 1655 matching rows from enact				% Printed 1655 matching rows from enact
+% Printed 1655 matching rows from enact				% Printed 1655 matching rows from enact
+% Created hash index for table enact on column touch		% Created hash index for table enact on column touch
+% Added 306 rows to enact from position 1655 to 1960		% Added 306 rows to enact from position 1655 to 1960
+% Printed 0 matching rows from enact				% Printed 0 matching rows from enact
+% Printed 714 matching rows from enact				% Printed 714 matching rows from enact
+% Added 354 rows to enact from position 1961 to 2314		% Added 354 rows to enact from position 1961 to 2314
+% New table monthly with column(s) past pregnancy lab hit gli	% New table monthly with column(s) past pregnancy lab hit gli
+% Printed 0 matching rows from monthly				% Printed 0 matching rows from monthly
+% Added 354 rows to monthly from position 0 to 353		% Added 354 rows to monthly from position 0 to 353
+% Printed 15 rows from joining enact to enact			% Printed 15 rows from joining enact to enact
+% Created hash index for table enact on column universe		% Created hash index for table enact on column universe
+% Printed 2315 matching rows from enact				% Printed 2315 matching rows from enact
+% Printed 27121 rows from joining enact to enact		% Printed 27121 rows from joining enact to enact
+% Table monthly deleted						% Table monthly deleted
+% Printed 2315 matching rows from enact				% Printed 2315 matching rows from enact
+% Deleted 284 rows from enact					% Deleted 284 rows from enact
+% Created hash index for table enact on column aim		% Created hash index for table enact on column aim
+% Printed 1840 matching rows from enact				% Printed 1840 matching rows from enact
+% New table concerning with column(s) frequently bathroom ash	% New table concerning with column(s) frequently bathroom ash
+% Added 358 rows to concerning from position 0 to 357		% Added 358 rows to concerning from position 0 to 357
+% Printed 358 matching rows from concerning			% Printed 358 matching rows from concerning
+% Added 305 rows to concerning from position 358 to 662		% Added 305 rows to concerning from position 358 to 662
+% Added 321 rows to concerning from position 663 to 983		% Added 321 rows to concerning from position 663 to 983
+% Created hash index for table enact on column corporate	% Created hash index for table enact on column corporate
+% Printed 514 rows from joining concerning to enact		% Printed 514 rows from joining concerning to enact
+% Printed 2031 matching rows from enact				% Printed 2031 matching rows from enact
+% Printed 789 matching rows from enact				% Printed 789 matching rows from enact
+% Printed 2031 matching rows from enact				% Printed 2031 matching rows from enact
+% New table march with column(s) shot silly criminal derive m	% New table march with column(s) shot silly criminal derive m
+% Deleted 1 rows from enact					% Deleted 1 rows from enact
+% Printed 1624 matching rows from enact				% Printed 1624 matching rows from enact
+% New table injury with column(s) oil remote shoe input ha pa	% New table injury with column(s) oil remote shoe input ha pa
+% Deleted 0 rows from injury					% Deleted 0 rows from injury
+% Printed 0 matching rows from injury				% Printed 0 matching rows from injury
+% New table encourage with column(s) dear successfully laught	% New table encourage with column(s) dear successfully laught
+% Deleted 0 rows from march					% Deleted 0 rows from march
+% Added 367 rows to march from position 0 to 366		% Added 367 rows to march from position 0 to 366
+% Printed 0 matching rows from injury				% Printed 0 matching rows from injury
+% Printed 0 matching rows from enact				% Printed 0 matching rows from enact
+% Added 376 rows to concerning from position 984 to 1359	% Added 376 rows to concerning from position 984 to 1359
+% Deleted 1195 rows from concerning				% Deleted 1195 rows from concerning
+% Printed 0 matching rows from injury				% Printed 0 matching rows from injury
+% Added 331 rows to enact from position 2030 to 2360		% Added 331 rows to enact from position 2030 to 2360
+% Printed 0 matching rows from encourage			% Printed 0 matching rows from encourage
+% Printed 49 matching rows from concerning			% Printed 49 matching rows from concerning
+% Added 376 rows to encourage from position 0 to 375		% Added 376 rows to encourage from position 0 to 375
+% Printed 129 matching rows from encourage			% Printed 129 matching rows from encourage
+% Printed 80 matching rows from encourage			% Printed 80 matching rows from encourage
+% Printed 209 rows from joining march to enact			% Printed 209 rows from joining march to enact
+% Added 301 rows to march from position 367 to 667		% Added 301 rows to march from position 367 to 667
+% Printed 376 matching rows from encourage			% Printed 376 matching rows from encourage
+% Created hash index for table march on column manufacturing	% Created hash index for table march on column manufacturing
+% Added 305 rows to injury from position 0 to 304		% Added 305 rows to injury from position 0 to 304
+% Printed 151 rows from joining injury to enact			% Printed 151 rows from joining injury to enact
+% Added 305 rows to march from position 668 to 972		% Added 305 rows to march from position 668 to 972
+% Printed 3631 rows from joining enact to enact			% Printed 3631 rows from joining enact to enact
+% Added 388 rows to injury from position 305 to 692		% Added 388 rows to injury from position 305 to 692
+% Added 380 rows to enact from position 2361 to 2740		% Added 380 rows to enact from position 2361 to 2740
+% Created hash index for table enact on column earthquake	% Created hash index for table enact on column earthquake
+% Printed 1333107 rows from joining enact to march		% Printed 1333107 rows from joining enact to march
+% Created bst index for table enact on column van		% Created bst index for table enact on column van
+% Added 394 rows to concerning from position 165 to 558		% Added 394 rows to concerning from position 165 to 558
+% Printed 559 matching rows from concerning			% Printed 559 matching rows from concerning
+% Deleted 0 rows from injury					% Deleted 0 rows from injury
+% Added 375 rows to concerning from position 559 to 933		% Added 375 rows to concerning from position 559 to 933
+% Deleted 355 rows from injury					% Deleted 355 rows from injury
+% Printed 507 matching rows from march				% Printed 507 matching rows from march
+% Printed 12 matching rows from enact				% Printed 12 matching rows from enact
+% Printed 470 matching rows from concerning			% Printed 470 matching rows from concerning
+% Printed 466 matching rows from march			      |	% Printed 0 matching rows from march
+% Created hash index for table injury on column thousand	% Created hash index for table injury on column thousand
+% Created hash index for table march on column recipient	% Created hash index for table march on column recipient
+% Added 341 rows to encourage from position 376 to 716		% Added 341 rows to encourage from position 376 to 716
+% Deleted 203 rows from injury					% Deleted 203 rows from injury
+% Added 386 rows to injury from position 135 to 520		% Added 386 rows to injury from position 135 to 520
+% Printed 717 matching rows from encourage			% Printed 717 matching rows from encourage
+% Created bst index for table enact on column emotional		% Created bst index for table enact on column emotional
+% Printed 348809 rows from joining encourage to march		% Printed 348809 rows from joining encourage to march
+% Added 388 rows to march from position 973 to 1360		% Added 388 rows to march from position 973 to 1360
+% Printed 169 matching rows from injury				% Printed 169 matching rows from injury
+% Created bst index for table concerning on column draw		% Created bst index for table concerning on column draw
+% Deleted 361 rows from concerning				% Deleted 361 rows from concerning
+% Printed 389920 rows from joining concerning to march		% Printed 389920 rows from joining concerning to march
+% Table injury deleted						% Table injury deleted
+% New table storm with column(s) share direction bus opposed 	% New table storm with column(s) share direction bus opposed 
+% Added 336 rows to concerning from position 573 to 908		% Added 336 rows to concerning from position 573 to 908
+% Printed 0 rows from joining storm to concerning		% Printed 0 rows from joining storm to concerning
+% Added 308 rows to encourage from position 717 to 1024		% Added 308 rows to encourage from position 717 to 1024
+% Printed 4 rows from joining encourage to concerning		% Printed 4 rows from joining encourage to concerning
+% Printed 0 rows from joining storm to march			% Printed 0 rows from joining storm to march
+% Printed 1361 matching rows from march				% Printed 1361 matching rows from march
+% Deleted 1260 rows from enact					% Deleted 1260 rows from enact
+% Printed 4 rows from joining encourage to concerning		% Printed 4 rows from joining encourage to concerning
+% New table total with column(s) disappear readily toilet lap	% New table total with column(s) disappear readily toilet lap
+% Deleted 500 rows from encourage			      |	% Deleted 0 rows from encourage
+% Added 309 rows to concerning from position 909 to 1217	% Added 309 rows to concerning from position 909 to 1217
+% Added 351 rows to enact from position 1481 to 1831		% Added 351 rows to enact from position 1481 to 1831
+% New table fork with column(s) scare entry transfer living v	% New table fork with column(s) scare entry transfer living v
+% Printed 0 matching rows from fork				% Printed 0 matching rows from fork
+% Printed 23 matching rows from encourage		      |	% Printed 43 matching rows from encourage
+% Printed 0 rows from joining storm to concerning		% Printed 0 rows from joining storm to concerning
+% Added 358 rows to concerning from position 1218 to 1575	% Added 358 rows to concerning from position 1218 to 1575
+% Added 357 rows to fork from position 0 to 356			% Added 357 rows to fork from position 0 to 356
+% Printed 1305 matching rows from concerning		      |	% Printed 798 matching rows from concerning
+% Deleted 681 rows from march				      |	% Deleted 0 rows from march
+% Created hash index for table concerning on column foster	% Created hash index for table concerning on column foster
+% Printed 1576 matching rows from concerning			% Printed 1576 matching rows from concerning
+% Printed 680 matching rows from march			      |	% Printed 1361 matching rows from march
+% Table encourage deleted					% Table encourage deleted
+% Added 349 rows to enact from position 1832 to 2180		% Added 349 rows to enact from position 1832 to 2180
+% Table fork deleted						% Table fork deleted
+% Created bst index for table march on column encouraging	% Created bst index for table march on column encouraging
+% Added 378 rows to total from position 0 to 377		% Added 378 rows to total from position 0 to 377
+% Created hash index for table march on column spouse		% Created hash index for table march on column spouse
+% Printed 0 matching rows from march			      |	% Printed 1 matching rows from march
+% Printed 0 matching rows from enact				% Printed 0 matching rows from enact
+% Printed 2066 matching rows from enact			      |	% Printed 2637 matching rows from enact
+% Printed 271 rows from joining march to concerning	      |	% Printed 541 rows from joining march to concerning
+% Added 326 rows to march from position 680 to 1005	      |	% Added 326 rows to march from position 1361 to 1686
+% Added 356 rows to march from position 1006 to 1361	      |	% Added 356 rows to march from position 1687 to 2042
+% Printed 505 rows from joining march to concerning	      |	% Printed 775 rows from joining march to concerning
+% Deleted 0 rows from concerning				% Deleted 0 rows from concerning
+% Printed 185 matching rows from total			      |	% Printed 0 matching rows from total
+% Printed 662 rows from joining enact to march		      |	% Printed 1015 rows from joining enact to march
+% Printed 2181 matching rows from enact				% Printed 2181 matching rows from enact
+% Added 399 rows to enact from position 2181 to 2579		% Added 399 rows to enact from position 2181 to 2579
+% Added 391 rows to enact from position 2580 to 2970		% Added 391 rows to enact from position 2580 to 2970
+% Deleted 0 rows from storm					% Deleted 0 rows from storm
+% Printed 1067 matching rows from concerning			% Printed 1067 matching rows from concerning
+% Table march deleted						% Table march deleted
+% Added 372 rows to storm from position 0 to 371		% Added 372 rows to storm from position 0 to 371
+% Printed 372 matching rows from storm				% Printed 372 matching rows from storm
+% Added 324 rows to storm from position 372 to 695		% Added 324 rows to storm from position 372 to 695
+% Printed 2395 matching rows from enact			      |	% Printed 1699 matching rows from enact
+% Printed 1576 matching rows from concerning			% Printed 1576 matching rows from concerning
+% Printed 261 rows from joining storm to concerning		% Printed 261 rows from joining storm to concerning
+% Added 367 rows to storm from position 696 to 1062		% Added 367 rows to storm from position 696 to 1062
+% New table tunnel with column(s) she army sibling cup refrig	% New table tunnel with column(s) she army sibling cup refrig
+% Printed 0 matching rows from tunnel				% Printed 0 matching rows from tunnel
+% Printed 1576 matching rows from concerning			% Printed 1576 matching rows from concerning
+% Deleted 321 rows from total					% Deleted 321 rows from total
+% Printed 1 matching rows from concerning			% Printed 1 matching rows from concerning
+% Printed 0 matching rows from tunnel				% Printed 0 matching rows from tunnel
+% Added 320 rows to storm from position 1063 to 1382		% Added 320 rows to storm from position 1063 to 1382
+% Printed 0 rows from joining tunnel to concerning		% Printed 0 rows from joining tunnel to concerning
+% Created hash index for table total on column naked		% Created hash index for table total on column naked
+% Printed 22 rows from joining concerning to total		% Printed 22 rows from joining concerning to total
+% Printed 0 rows from joining total to enact			% Printed 0 rows from joining total to enact
+% Printed 0 rows from joining tunnel to concerning		% Printed 0 rows from joining tunnel to concerning
+% Printed 0 rows from joining tunnel to enact			% Printed 0 rows from joining tunnel to enact
+% Printed 147 matching rows from storm				% Printed 147 matching rows from storm
+% Printed 22 rows from joining concerning to total		% Printed 22 rows from joining concerning to total
+% Added 352 rows to concerning from position 1576 to 1927	% Added 352 rows to concerning from position 1576 to 1927
+% Printed 1 rows from joining total to total			% Printed 1 rows from joining total to total
+% Added 384 rows to storm from position 1383 to 1766		% Added 384 rows to storm from position 1383 to 1766
+% Printed 1 matching rows from concerning			% Printed 1 matching rows from concerning
+% Deleted 0 rows from tunnel					% Deleted 0 rows from tunnel
+% Table tunnel deleted						% Table tunnel deleted
+% Added 382 rows to total from position 57 to 438		% Added 382 rows to total from position 57 to 438
+% Printed 2971 matching rows from enact				% Printed 2971 matching rows from enact
+% Printed 27 rows from joining enact to enact			% Printed 27 rows from joining enact to enact
+% Added 372 rows to enact from position 2971 to 3342		% Added 372 rows to enact from position 2971 to 3342
+% Printed 137 matching rows from concerning			% Printed 137 matching rows from concerning
+% Added 394 rows to total from position 439 to 832		% Added 394 rows to total from position 439 to 832
+% Printed 833 matching rows from total				% Printed 833 matching rows from total
+% Added 388 rows to concerning from position 1928 to 2315	% Added 388 rows to concerning from position 1928 to 2315
+% Printed 6 rows from joining total to enact			% Printed 6 rows from joining total to enact
+% Added 323 rows to total from position 833 to 1155		% Added 323 rows to total from position 833 to 1155
+% Printed 1767 matching rows from storm				% Printed 1767 matching rows from storm
+% Added 334 rows to storm from position 1767 to 2100		% Added 334 rows to storm from position 1767 to 2100
+% Printed 232 matching rows from total				% Printed 232 matching rows from total
+% Printed 1745 rows from joining enact to concerning		% Printed 1745 rows from joining enact to concerning
+% Printed 33 rows from joining storm to enact			% Printed 33 rows from joining storm to enact
+% Printed 3343 matching rows from enact				% Printed 3343 matching rows from enact
+% Printed 2101 matching rows from storm				% Printed 2101 matching rows from storm
+% Printed 1172 rows from joining storm to concerning		% Printed 1172 rows from joining storm to concerning
+% Added 307 rows to enact from position 3343 to 3649		% Added 307 rows to enact from position 3343 to 3649
+% Added 398 rows to enact from position 3650 to 4047		% Added 398 rows to enact from position 3650 to 4047
+% Deleted 1141 rows from total					% Deleted 1141 rows from total
+% Created hash index for table total on column fork		% Created hash index for table total on column fork
+% Printed 55 rows from joining enact to enact			% Printed 55 rows from joining enact to enact
+% Printed 4048 matching rows from enact				% Printed 4048 matching rows from enact
+% Printed 0 matching rows from storm				% Printed 0 matching rows from storm
+% Printed 3933 matching rows from enact			      |	% Printed 2615 matching rows from enact
+% Created hash index for table concerning on column patient	% Created hash index for table concerning on column patient
+% Added 363 rows to storm from position 2101 to 2463		% Added 363 rows to storm from position 2101 to 2463
+% Printed 0 rows from joining concerning to total		% Printed 0 rows from joining concerning to total
+% Added 341 rows to concerning from position 2316 to 2656	% Added 341 rows to concerning from position 2316 to 2656
+% Deleted 1324 rows from concerning			      |	% Deleted 0 rows from concerning
+% Printed 0 rows from joining storm to total			% Printed 0 rows from joining storm to total
+% Printed 0 matching rows from storm				% Printed 0 matching rows from storm
+% Deleted 0 rows from concerning			      |	% Deleted 1324 rows from concerning
+% Printed 6 matching rows from total				% Printed 6 matching rows from total
+% Printed 2464 matching rows from storm				% Printed 2464 matching rows from storm
+% Table total deleted						% Table total deleted
+% New table special with column(s) jar sequence plate weak pr	% New table special with column(s) jar sequence plate weak pr
+% Created hash index for table enact on column horn		% Created hash index for table enact on column horn
+% Added 356 rows to concerning from position 1333 to 1688	% Added 356 rows to concerning from position 1333 to 1688
+% Added 315 rows to special from position 0 to 314		% Added 315 rows to special from position 0 to 314
+% Deleted 923 rows from storm					% Deleted 923 rows from storm
+% Printed 1689 matching rows from concerning			% Printed 1689 matching rows from concerning
+% Printed 315 matching rows from special			% Printed 315 matching rows from special
+% Added 354 rows to storm from position 1541 to 1894		% Added 354 rows to storm from position 1541 to 1894
+% Added 301 rows to concerning from position 1689 to 1989	% Added 301 rows to concerning from position 1689 to 1989
+% Printed 1990 matching rows from concerning			% Printed 1990 matching rows from concerning
+% Added 335 rows to storm from position 1895 to 2229		% Added 335 rows to storm from position 1895 to 2229
+% Printed 339477 rows from joining special to concerning	% Printed 339477 rows from joining special to concerning
+% Printed 18 rows from joining storm to enact			% Printed 18 rows from joining storm to enact
+% Printed 2230 matching rows from storm				% Printed 2230 matching rows from storm
+% New table reply with column(s) upset raise stability occasi	% New table reply with column(s) upset raise stability occasi
+% Printed 339477 rows from joining special to concerning	% Printed 339477 rows from joining special to concerning
+% Printed 1990 matching rows from concerning			% Printed 1990 matching rows from concerning
+% Deleted 0 rows from reply					% Deleted 0 rows from reply
+% New table thin with column(s) formal grandmother concept ni	% New table thin with column(s) formal grandmother concept ni
+% Added 385 rows to concerning from position 1990 to 2374	% Added 385 rows to concerning from position 1990 to 2374
+% Printed 0 matching rows from reply				% Printed 0 matching rows from reply
+% Printed 0 matching rows from concerning		      |	% Printed 507 matching rows from concerning
+% Added 339 rows to storm from position 2230 to 2568		% Added 339 rows to storm from position 2230 to 2568
+% Printed 2375 matching rows from concerning			% Printed 2375 matching rows from concerning
+% Added 314 rows to thin from position 0 to 313			% Added 314 rows to thin from position 0 to 313
+% Printed 4048 matching rows from enact				% Printed 4048 matching rows from enact
+% Added 385 rows to enact from position 4048 to 4432		% Added 385 rows to enact from position 4048 to 4432
+% Printed 0 matching rows from storm				% Printed 0 matching rows from storm
+% Printed 1868 matching rows from concerning			% Printed 1868 matching rows from concerning
+% Printed 0 rows from joining reply to concerning		% Printed 0 rows from joining reply to concerning
+% Printed 1234 matching rows from storm				% Printed 1234 matching rows from storm
+% New table arrow with column(s) departure middle couch farm 	% New table arrow with column(s) departure middle couch farm 
+% Added 335 rows to thin from position 314 to 648		% Added 335 rows to thin from position 314 to 648
+% Printed 0 rows from joining reply to enact			% Printed 0 rows from joining reply to enact
+% Printed 0 matching rows from thin				% Printed 0 matching rows from thin
+% Added 320 rows to thin from position 649 to 968		% Added 320 rows to thin from position 649 to 968
+% Printed 0 matching rows from reply				% Printed 0 matching rows from reply
+% Deleted 0 rows from arrow					% Deleted 0 rows from arrow
+% Created bst index for table concerning on column difference	% Created bst index for table concerning on column difference
+% Added 346 rows to thin from position 969 to 1314		% Added 346 rows to thin from position 969 to 1314
+% New table trust with column(s) origin forum angle rough nig	% New table trust with column(s) origin forum angle rough nig
+% Printed 313 matching rows from enact				% Printed 313 matching rows from enact
+% Added 307 rows to storm from position 2569 to 2875		% Added 307 rows to storm from position 2569 to 2875
+% Created bst index for table thin on column personal		% Created bst index for table thin on column personal
+% Printed 1 matching rows from special				% Printed 1 matching rows from special
+% Added 371 rows to trust from position 0 to 370		% Added 371 rows to trust from position 0 to 370
+% New table tomorrow with column(s) resident driver ship spor	% New table tomorrow with column(s) resident driver ship spor
+% Printed 1315 matching rows from thin				% Printed 1315 matching rows from thin
+% Printed 0 matching rows from reply				% Printed 0 matching rows from reply
+% Printed 0 matching rows from trust				% Printed 0 matching rows from trust
+% Printed 0 matching rows from reply				% Printed 0 matching rows from reply
+% Printed 706 rows from joining concerning to thin		% Printed 706 rows from joining concerning to thin
+% Added 304 rows to storm from position 2876 to 3179		% Added 304 rows to storm from position 2876 to 3179
+% Printed 315 matching rows from special			% Printed 315 matching rows from special
+% Table thin deleted						% Table thin deleted
+% Printed 1550 matching rows from storm				% Printed 1550 matching rows from storm
+% Printed 170 matching rows from special			% Printed 170 matching rows from special
+% Printed 0 matching rows from special				% Printed 0 matching rows from special
+% Printed 0 matching rows from arrow				% Printed 0 matching rows from arrow
+% Added 324 rows to enact from position 4433 to 4756		% Added 324 rows to enact from position 4433 to 4756
+% Printed 186 matching rows from trust			      |	% Printed 0 matching rows from trust
+% Printed 63 rows from joining enact to enact			% Printed 63 rows from joining enact to enact
+% Printed 4757 matching rows from enact				% Printed 4757 matching rows from enact
+% Printed 282 matching rows from trust				% Printed 282 matching rows from trust
+% Printed 0 matching rows from arrow				% Printed 0 matching rows from arrow
+% Printed 0 matching rows from tomorrow				% Printed 0 matching rows from tomorrow
+% Created hash index for table arrow on column instruct		% Created hash index for table arrow on column instruct
+% Created bst index for table enact on column director		% Created bst index for table enact on column director
+% Table concerning deleted					% Table concerning deleted
+% Printed 4757 matching rows from enact				% Printed 4757 matching rows from enact
+% New table part with column(s) feel lie quality willingness 	% New table part with column(s) feel lie quality willingness 
+% Deleted 134 rows from trust					% Deleted 134 rows from trust
+% Printed 0 matching rows from arrow				% Printed 0 matching rows from arrow
+% Printed 0 matching rows from arrow				% Printed 0 matching rows from arrow
+% Added 348 rows to special from position 315 to 662		% Added 348 rows to special from position 315 to 662
+% Printed 0 rows from joining part to enact			% Printed 0 rows from joining part to enact
+% Printed 0 matching rows from tomorrow				% Printed 0 matching rows from tomorrow
+% Printed 0 matching rows from tomorrow				% Printed 0 matching rows from tomorrow
+% Added 331 rows to special from position 663 to 993		% Added 331 rows to special from position 663 to 993
+% Printed 2403 matching rows from enact				% Printed 2403 matching rows from enact
+% Created bst index for table enact on column thumb		% Created bst index for table enact on column thumb
+% Printed 0 matching rows from arrow				% Printed 0 matching rows from arrow
+% Printed 131 matching rows from trust				% Printed 131 matching rows from trust
+% Created hash index for table tomorrow on column write		% Created hash index for table tomorrow on column write
+% Printed 0 matching rows from storm			      |	% Printed 1592 matching rows from storm
+% Printed 0 rows from joining special to arrow			% Printed 0 rows from joining special to arrow
+% Printed 0 rows from joining part to tomorrow			% Printed 0 rows from joining part to tomorrow
+% Printed 0 matching rows from reply				% Printed 0 matching rows from reply
+% Deleted 0 rows from trust				      |	% Deleted 131 rows from trust
+% Printed 0 matching rows from arrow				% Printed 0 matching rows from arrow
+% Created bst index for table trust on column young		% Created bst index for table trust on column young
+% Added 334 rows to trust from position 237 to 570	      |	% Added 334 rows to trust from position 106 to 439
+% Created bst index for table special on column bury		% Created bst index for table special on column bury
+% Added 353 rows to arrow from position 0 to 352		% Added 353 rows to arrow from position 0 to 352
+% Printed 571 matching rows from trust			      |	% Printed 440 matching rows from trust
+% Printed 571 matching rows from trust			      |	% Printed 440 matching rows from trust
+% Printed 2999 matching rows from enact				% Printed 2999 matching rows from enact
+% Printed 0 rows from joining reply to trust			% Printed 0 rows from joining reply to trust
+% Added 390 rows to trust from position 571 to 960	      |	% Added 390 rows to trust from position 440 to 829
+% Created hash index for table reply on column flexible		% Created hash index for table reply on column flexible
+% Printed 33 rows from joining arrow to arrow			% Printed 33 rows from joining arrow to arrow
+% Created bst index for table tomorrow on column landscape	% Created bst index for table tomorrow on column landscape
+% Printed 0 rows from joining arrow to tomorrow			% Printed 0 rows from joining arrow to tomorrow
+% Added 320 rows to arrow from position 353 to 672		% Added 320 rows to arrow from position 353 to 672
+% Added 396 rows to reply from position 0 to 395		% Added 396 rows to reply from position 0 to 395
+% Created hash index for table trust on column friendly		% Created hash index for table trust on column friendly
+% Created hash index for table enact on column specify		% Created hash index for table enact on column specify
+% Printed 396 matching rows from reply				% Printed 396 matching rows from reply
+% Printed 2 rows from joining storm to reply			% Printed 2 rows from joining storm to reply
+% Printed 1510 matching rows from storm				% Printed 1510 matching rows from storm
+% Added 308 rows to tomorrow from position 0 to 307		% Added 308 rows to tomorrow from position 0 to 307
+% Added 378 rows to trust from position 961 to 1338	      |	% Added 378 rows to trust from position 830 to 1207
+% Printed 28 rows from joining reply to tomorrow		% Printed 28 rows from joining reply to tomorrow
+% Table storm deleted						% Table storm deleted
+% Added 343 rows to arrow from position 673 to 1015		% Added 343 rows to arrow from position 673 to 1015
+% Added 348 rows to trust from position 1339 to 1686	      |	% Added 348 rows to trust from position 1208 to 1555
+% Printed 0 rows from joining part to trust			% Printed 0 rows from joining part to trust
+% Deleted 0 rows from part					% Deleted 0 rows from part
+% Printed 40051 rows from joining enact to trust	      |	% Printed 36943 rows from joining enact to trust
+% Printed 0 matching rows from special				% Printed 0 matching rows from special
+% Added 366 rows to tomorrow from position 308 to 673		% Added 366 rows to tomorrow from position 308 to 673
+% Deleted 515 rows from special				      |	% Deleted 0 rows from special
+% Printed 513 rows from joining special to enact	      |	% Printed 1090 rows from joining special to enact
+% Printed 479 matching rows from special		      |	% Printed 994 matching rows from special
+% Printed 479 matching rows from special		      |	% Printed 994 matching rows from special
+% Printed 1016 matching rows from arrow				% Printed 1016 matching rows from arrow
+% Printed 2838 matching rows from enact				% Printed 2838 matching rows from enact
+% Printed 1016 matching rows from arrow				% Printed 1016 matching rows from arrow
+% Created hash index for table enact on column laboratory	% Created hash index for table enact on column laboratory
+% Printed 1354 matching rows from enact				% Printed 1354 matching rows from enact
+% Printed 112565 rows from joining special to special	      |	% Printed 494450 rows from joining special to special
+% Printed 462 matching rows from trust			      |	% Printed 431 matching rows from trust
+% Printed 82 rows from joining special to tomorrow	      |	% Printed 164 rows from joining special to tomorrow
+% Added 354 rows to arrow from position 1016 to 1369		% Added 354 rows to arrow from position 1016 to 1369
+% Printed 19 rows from joining trust to enact		      |	% Printed 16 rows from joining trust to enact
+% Added 329 rows to special from position 479 to 807	      |	% Added 329 rows to special from position 994 to 1322
+% Printed 0 matching rows from part				% Printed 0 matching rows from part
+% Printed 0 rows from joining part to enact			% Printed 0 rows from joining part to enact
+% Printed 0 matching rows from part				% Printed 0 matching rows from part
+% Added 313 rows to special from position 808 to 1120	      |	% Added 313 rows to special from position 1323 to 1635
+% Added 336 rows to enact from position 4757 to 5092		% Added 336 rows to enact from position 4757 to 5092
+% Printed 5715 rows from joining tomorrow to trust	      |	% Printed 5257 rows from joining tomorrow to trust
+% Printed 336 rows from joining special to arrow	      |	% Printed 477 rows from joining special to arrow
+% Printed 396 matching rows from reply				% Printed 396 matching rows from reply
+% Deleted 596 rows from enact					% Deleted 596 rows from enact
+% Printed 0 matching rows from enact				% Printed 0 matching rows from enact
+% Deleted 0 rows from part					% Deleted 0 rows from part
+% Added 314 rows to tomorrow from position 674 to 987		% Added 314 rows to tomorrow from position 674 to 987
+% Printed 927 matching rows from arrow				% Printed 927 matching rows from arrow
+% Printed 1 rows from joining trust to reply			% Printed 1 rows from joining trust to reply
+% Created hash index for table trust on column appear		% Created hash index for table trust on column appear
+% Added 348 rows to reply from position 396 to 743		% Added 348 rows to reply from position 396 to 743
+% Added 364 rows to part from position 0 to 363			% Added 364 rows to part from position 0 to 363
+% Printed 1370 matching rows from arrow				% Printed 1370 matching rows from arrow
+% Created hash index for table trust on column these		% Created hash index for table trust on column these
+% Created hash index for table tomorrow on column pretty	% Created hash index for table tomorrow on column pretty
+% Printed 744 matching rows from reply				% Printed 744 matching rows from reply
+% Printed 1420 rows from joining enact to arrow			% Printed 1420 rows from joining enact to arrow
+% Added 397 rows to trust from position 1687 to 2083	      |	% Added 397 rows to trust from position 1556 to 1952
+% Table special deleted						% Table special deleted
+% Added 363 rows to arrow from position 1370 to 1732		% Added 363 rows to arrow from position 1370 to 1732
+% Printed 292 rows from joining reply to arrow			% Printed 292 rows from joining reply to arrow
+% Printed 5 rows from joining reply to enact			% Printed 5 rows from joining reply to enact
+% Added 301 rows to trust from position 2084 to 2384	      |	% Added 301 rows to trust from position 1953 to 2253
+% Deleted 905 rows from tomorrow				% Deleted 905 rows from tomorrow
+% Printed 1 rows from joining tomorrow to reply			% Printed 1 rows from joining tomorrow to reply
+% Printed 0 rows from joining arrow to tomorrow			% Printed 0 rows from joining arrow to tomorrow
+% Added 390 rows to enact from position 4497 to 4886		% Added 390 rows to enact from position 4497 to 4886
+% Printed 16 matching rows from trust				% Printed 16 matching rows from trust
+% Printed 4365 rows from joining part to trust		      |	% Printed 4109 rows from joining part to trust
+% Printed 100 matching rows from part				% Printed 100 matching rows from part
+% Created bst index for table tomorrow on column resident	% Created bst index for table tomorrow on column resident
+% Deleted 9 rows from trust					% Deleted 9 rows from trust
+% Created bst index for table part on column willingness	% Created bst index for table part on column willingness
+% Printed 15 rows from joining arrow to enact			% Printed 15 rows from joining arrow to enact
+% Added 310 rows to enact from position 4887 to 5196		% Added 310 rows to enact from position 4887 to 5196
+% Deleted 423 rows from reply					% Deleted 423 rows from reply
+% Deleted 1727 rows from trust				      |	% Deleted 1636 rows from trust
+% Added 354 rows to part from position 364 to 717		% Added 354 rows to part from position 364 to 717
+% Added 308 rows to tomorrow from position 83 to 390		% Added 308 rows to tomorrow from position 83 to 390
+% Printed 143 rows from joining tomorrow to arrow		% Printed 143 rows from joining tomorrow to arrow
+% Printed 0 matching rows from reply				% Printed 0 matching rows from reply
+% Deleted 321 rows from reply					% Deleted 321 rows from reply
+% Printed 1 rows from joining tomorrow to tomorrow		% Printed 1 rows from joining tomorrow to tomorrow
+% Printed 2 rows from joining trust to part			% Printed 2 rows from joining trust to part
+% Printed 1 rows from joining tomorrow to tomorrow		% Printed 1 rows from joining tomorrow to tomorrow
+% Added 363 rows to enact from position 5197 to 5559		% Added 363 rows to enact from position 5197 to 5559
+% Printed 78 matching rows from part			      |	% Printed 38 matching rows from part
+% Added 373 rows to trust from position 649 to 1021	      |	% Added 373 rows to trust from position 609 to 981
+% New table guilt with column(s) credibility behavior rabbit 	% New table guilt with column(s) credibility behavior rabbit 
+% Printed 0 rows from joining guilt to arrow			% Printed 0 rows from joining guilt to arrow
+% Table guilt deleted						% Table guilt deleted
+% Deleted 196 rows from tomorrow				% Deleted 196 rows from tomorrow
+% Printed 0 rows from joining reply to part			% Printed 0 rows from joining reply to part
+% Printed 441 rows from joining trust to arrow		      |	% Printed 423 rows from joining trust to arrow
+% Printed 1 rows from joining arrow to part			% Printed 1 rows from joining arrow to part
+% Printed 2215 rows from joining enact to arrow			% Printed 2215 rows from joining enact to arrow
+% Printed 0 rows from joining enact to reply			% Printed 0 rows from joining enact to reply
+% Deleted 0 rows from tomorrow					% Deleted 0 rows from tomorrow
+% Added 383 rows to enact from position 5560 to 5942		% Added 383 rows to enact from position 5560 to 5942
+% Added 336 rows to arrow from position 1733 to 2068		% Added 336 rows to arrow from position 1733 to 2068
+% Created hash index for table reply on column upset		% Created hash index for table reply on column upset
+% Printed 718 matching rows from part				% Printed 718 matching rows from part
+% Printed 2069 matching rows from arrow				% Printed 2069 matching rows from arrow
+% Added 359 rows to reply from position 0 to 358		% Added 359 rows to reply from position 0 to 358
+% Printed 0 rows from joining part to tomorrow			% Printed 0 rows from joining part to tomorrow
+% Created bst index for table enact on column number		% Created bst index for table enact on column number
+% Added 392 rows to reply from position 359 to 750		% Added 392 rows to reply from position 359 to 750
+% Printed 195 matching rows from tomorrow		      |	% Printed 46 matching rows from tomorrow
+% Printed 751 matching rows from reply				% Printed 751 matching rows from reply
+% Printed 29 rows from joining tomorrow to reply		% Printed 29 rows from joining tomorrow to reply
+% Added 368 rows to reply from position 751 to 1118		% Added 368 rows to reply from position 751 to 1118
+% New table actress with column(s) cheat vulnerable anger dep	% New table actress with column(s) cheat vulnerable anger dep
+% Printed 2 rows from joining reply to tomorrow			% Printed 2 rows from joining reply to tomorrow
+% Deleted 145 rows from part					% Deleted 145 rows from part
+% Printed 195 matching rows from tomorrow			% Printed 195 matching rows from tomorrow
+% Printed 969 rows from joining tomorrow to trust	      |	% Printed 932 rows from joining tomorrow to trust
+% New table ethics with column(s) gang lecture trainer move e	% New table ethics with column(s) gang lecture trainer move e
+% Printed 0 rows from joining actress to tomorrow		% Printed 0 rows from joining actress to tomorrow
+% Printed 1063 matching rows from arrow				% Printed 1063 matching rows from arrow
+% Deleted 673 rows from trust				      |	% Deleted 639 rows from trust
+% Printed 10631 rows from joining enact to trust	      |	% Printed 10441 rows from joining enact to trust
+% Printed 4136 matching rows from enact				% Printed 4136 matching rows from enact
+% Table enact deleted						% Table enact deleted
+% Printed 1036 rows from joining arrow to arrow			% Printed 1036 rows from joining arrow to arrow
+% Deleted 414 rows from part					% Deleted 414 rows from part
+% Printed 332 rows from joining tomorrow to trust	      |	% Printed 324 rows from joining tomorrow to trust
+% Printed 195 matching rows from tomorrow			% Printed 195 matching rows from tomorrow
+% Created hash index for table actress on column obstacle	% Created hash index for table actress on column obstacle
+% Printed 0 matching rows from ethics				% Printed 0 matching rows from ethics
+% Added 382 rows to part from position 159 to 540		% Added 382 rows to part from position 159 to 540
+% Printed 0 matching rows from tomorrow				% Printed 0 matching rows from tomorrow
+% Printed 547 rows from joining reply to arrow			% Printed 547 rows from joining reply to arrow
+% Printed 308 rows from joining reply to reply			% Printed 308 rows from joining reply to reply
+% Added 399 rows to trust from position 349 to 747	      |	% Added 399 rows to trust from position 343 to 741
+% Added 394 rows to reply from position 1119 to 1512		% Added 394 rows to reply from position 1119 to 1512
+% Table reply deleted						% Table reply deleted
+% Printed 0 rows from joining tomorrow to actress		% Printed 0 rows from joining tomorrow to actress
+% Table arrow deleted						% Table arrow deleted
+% Deleted 179 rows from tomorrow				% Deleted 179 rows from tomorrow
+% Created bst index for table tomorrow on column presumably	% Created bst index for table tomorrow on column presumably
+% Deleted 0 rows from tomorrow					% Deleted 0 rows from tomorrow
+% Printed 2 rows from joining trust to part			% Printed 2 rows from joining trust to part
+% Printed 0 rows from joining ethics to actress			% Printed 0 rows from joining ethics to actress
+% Added 369 rows to part from position 541 to 909		% Added 369 rows to part from position 541 to 909
+% Printed 910 matching rows from part				% Printed 910 matching rows from part
+% Printed 0 rows from joining part to actress			% Printed 0 rows from joining part to actress
+% Deleted 0 rows from ethics					% Deleted 0 rows from ethics
+% Printed 0 matching rows from actress				% Printed 0 matching rows from actress
+% Printed 0 rows from joining ethics to tomorrow		% Printed 0 rows from joining ethics to tomorrow
+% Printed 16 matching rows from tomorrow			% Printed 16 matching rows from tomorrow
+% Table ethics deleted						% Table ethics deleted
+% Table part deleted						% Table part deleted
+% Printed 0 rows from joining actress to trust			% Printed 0 rows from joining actress to trust
+% Printed 2 matching rows from tomorrow				% Printed 2 matching rows from tomorrow
+% Printed 2 matching rows from tomorrow				% Printed 2 matching rows from tomorrow
+% Printed 16 matching rows from tomorrow			% Printed 16 matching rows from tomorrow
+% Printed 0 matching rows from actress				% Printed 0 matching rows from actress
+% Added 347 rows to tomorrow from position 16 to 362		% Added 347 rows to tomorrow from position 16 to 362
+% Printed 0 rows from joining actress to tomorrow		% Printed 0 rows from joining actress to tomorrow
+% Table tomorrow deleted					% Table tomorrow deleted
+% Deleted 3 rows from trust					% Deleted 3 rows from trust
+% Printed 2886 rows from joining trust to trust		      |	% Printed 2838 rows from joining trust to trust
+% Printed 2886 rows from joining trust to trust		      |	% Printed 2838 rows from joining trust to trust
+% Printed 0 matching rows from actress				% Printed 0 matching rows from actress
+% Printed 0 rows from joining actress to actress		% Printed 0 rows from joining actress to actress
+% Printed 2886 rows from joining trust to trust		      |	% Printed 2838 rows from joining trust to trust
+% Added 368 rows to actress from position 0 to 367		% Added 368 rows to actress from position 0 to 367
+% Added 392 rows to actress from position 368 to 759		% Added 392 rows to actress from position 368 to 759
+% Created bst index for table trust on column crop		% Created bst index for table trust on column crop
+% Added 379 rows to trust from position 745 to 1123	      |	% Added 379 rows to trust from position 739 to 1117
+% Added 309 rows to trust from position 1124 to 1432	      |	% Added 309 rows to trust from position 1118 to 1426
+% Printed 1433 matching rows from trust			      |	% Printed 1427 matching rows from trust
+% Printed 66 matching rows from actress				% Printed 66 matching rows from actress
+% Printed 235 matching rows from trust			      |	% Printed 110 matching rows from trust
+% Deleted 1 rows from actress					% Deleted 1 rows from actress
+% Printed 2961 rows from joining actress to actress		% Printed 2961 rows from joining actress to actress
+% Printed 2961 rows from joining actress to actress		% Printed 2961 rows from joining actress to actress
+% Deleted 276 rows from actress					% Deleted 276 rows from actress
+% Printed 161 rows from joining actress to trust	      |	% Printed 160 rows from joining actress to trust
+% Printed 1286 matching rows from trust			      |	% Printed 618 matching rows from trust
+% Printed 483 matching rows from actress			% Printed 483 matching rows from actress
+% Added 362 rows to trust from position 1433 to 1794	      |	% Added 362 rows to trust from position 1427 to 1788
+% Created bst index for table actress on column supposedly	% Created bst index for table actress on column supposedly
+% Printed 201 rows from joining actress to trust	      |	% Printed 200 rows from joining actress to trust
+% Table trust deleted						% Table trust deleted
+% Deleted 226 rows from actress				      |	% Deleted 0 rows from actress
+% Added 312 rows to actress from position 257 to 568	      |	% Added 312 rows to actress from position 483 to 794
+% Printed 569 matching rows from actress		      |	% Printed 795 matching rows from actress
+% Created bst index for table actress on column bit		% Created bst index for table actress on column bit
+% Added 341 rows to actress from position 569 to 909	      |	% Added 341 rows to actress from position 795 to 1135
+% Added 385 rows to actress from position 910 to 1294	      |	% Added 385 rows to actress from position 1136 to 1520
+% Printed 1295 matching rows from actress		      |	% Printed 1521 matching rows from actress
+% Added 354 rows to actress from position 1295 to 1648	      |	% Added 354 rows to actress from position 1521 to 1874
+% Added 368 rows to actress from position 1649 to 2016	      |	% Added 368 rows to actress from position 1875 to 2242
+% Deleted 224 rows from actress				      |	% Deleted 253 rows from actress
+% Deleted 151 rows from actress				      |	% Deleted 168 rows from actress
+% Added 364 rows to actress from position 1642 to 2005	      |	% Added 364 rows to actress from position 1822 to 2185
+% Created hash index for table actress on column happily	% Created hash index for table actress on column happily
+% Created hash index for table actress on column depart		% Created hash index for table actress on column depart
+% Added 378 rows to actress from position 2006 to 2383	      |	% Added 378 rows to actress from position 2186 to 2563
+% Printed 13 matching rows from actress				% Printed 13 matching rows from actress
+% Printed 2384 matching rows from actress		      |	% Printed 2564 matching rows from actress
+% Printed 12 matching rows from actress			      |	% Printed 13 matching rows from actress
+% Added 372 rows to actress from position 2384 to 2755	      |	% Added 372 rows to actress from position 2564 to 2935
+% Created hash index for table actress on column burst		% Created hash index for table actress on column burst
+% Table actress deleted						% Table actress deleted
+% New table fun with column(s) meet production grave mortalit	% New table fun with column(s) meet production grave mortalit
+% Deleted 0 rows from fun					% Deleted 0 rows from fun
+% Added 312 rows to fun from position 0 to 311			% Added 312 rows to fun from position 0 to 311
+% Added 305 rows to fun from position 312 to 616		% Added 305 rows to fun from position 312 to 616
+% Added 318 rows to fun from position 617 to 934		% Added 318 rows to fun from position 617 to 934
+% New table pleasant with column(s) satisfaction melt lane en	% New table pleasant with column(s) satisfaction melt lane en
+% Added 397 rows to fun from position 935 to 1331		% Added 397 rows to fun from position 935 to 1331
+% Added 316 rows to pleasant from position 0 to 315		% Added 316 rows to pleasant from position 0 to 315
+% Added 301 rows to fun from position 1332 to 1632		% Added 301 rows to fun from position 1332 to 1632
+% Table pleasant deleted					% Table pleasant deleted
+% Printed 1633 matching rows from fun				% Printed 1633 matching rows from fun
+% Added 395 rows to fun from position 1633 to 2027		% Added 395 rows to fun from position 1633 to 2027
+% Created hash index for table fun on column diminish		% Created hash index for table fun on column diminish
+% Printed 1954 matching rows from fun				% Printed 1954 matching rows from fun
+% Printed 2028 matching rows from fun				% Printed 2028 matching rows from fun
+% Printed 2028 matching rows from fun				% Printed 2028 matching rows from fun
+% Printed 2028 matching rows from fun				% Printed 2028 matching rows from fun
+% Deleted 1898 rows from fun					% Deleted 1898 rows from fun
+% New table justify with column(s) attract visible religion s	% New table justify with column(s) attract visible religion s
+% Printed 0 rows from joining justify to fun			% Printed 0 rows from joining justify to fun
+% Created hash index for table justify on column genre		% Created hash index for table justify on column genre
+% Printed 0 matching rows from justify				% Printed 0 matching rows from justify
+% Deleted 0 rows from justify					% Deleted 0 rows from justify
+% Printed 0 rows from joining justify to fun			% Printed 0 rows from joining justify to fun
+% Printed 0 matching rows from justify				% Printed 0 matching rows from justify
+% Added 308 rows to justify from position 0 to 307		% Added 308 rows to justify from position 0 to 307
+% New table afford with column(s) logical segment pile six to	% New table afford with column(s) logical segment pile six to
+% Printed 130 matching rows from fun				% Printed 130 matching rows from fun
+% New table choose with column(s) bed regulator trim constrai	% New table choose with column(s) bed regulator trim constrai
+% Printed 0 rows from joining justify to justify		% Printed 0 rows from joining justify to justify
+% Created bst index for table choose on column kingdom		% Created bst index for table choose on column kingdom
+% Printed 0 rows from joining afford to justify			% Printed 0 rows from joining afford to justify
+% Printed 0 rows from joining choose to fun			% Printed 0 rows from joining choose to fun
+% Printed 0 matching rows from choose				% Printed 0 matching rows from choose
+% Printed 0 matching rows from afford				% Printed 0 matching rows from afford
+% Printed 0 matching rows from choose				% Printed 0 matching rows from choose
+% Table afford deleted						% Table afford deleted
+% Printed 0 matching rows from choose				% Printed 0 matching rows from choose
+% Printed 0 matching rows from fun				% Printed 0 matching rows from fun
+% Printed 0 rows from joining choose to choose			% Printed 0 rows from joining choose to choose
+% Added 381 rows to justify from position 308 to 688		% Added 381 rows to justify from position 308 to 688
+% Deleted 0 rows from choose					% Deleted 0 rows from choose
+% Added 345 rows to justify from position 689 to 1033		% Added 345 rows to justify from position 689 to 1033
+% Printed 130 matching rows from fun				% Printed 130 matching rows from fun
+% Added 336 rows to justify from position 1034 to 1369		% Added 336 rows to justify from position 1034 to 1369
+% Created bst index for table choose on column isolation	% Created bst index for table choose on column isolation
+% Created bst index for table justify on column stability	% Created bst index for table justify on column stability
+% Printed 1788 rows from joining justify to justify		% Printed 1788 rows from joining justify to justify
+% Printed 1 matching rows from justify				% Printed 1 matching rows from justify
+% Added 315 rows to choose from position 0 to 314		% Added 315 rows to choose from position 0 to 314
+% Printed 39 rows from joining fun to justify			% Printed 39 rows from joining fun to justify
+% Printed 130 matching rows from fun				% Printed 130 matching rows from fun
+% Printed 2168 rows from joining justify to choose		% Printed 2168 rows from joining justify to choose
+% Printed 0 matching rows from fun				% Printed 0 matching rows from fun
+% Printed 315 matching rows from choose				% Printed 315 matching rows from choose
+% Printed 1788 rows from joining justify to justify		% Printed 1788 rows from joining justify to justify
+% Printed 39 rows from joining fun to justify			% Printed 39 rows from joining fun to justify
+% Printed 5 matching rows from choose				% Printed 5 matching rows from choose
+% Printed 1370 matching rows from justify			% Printed 1370 matching rows from justify
+% Printed 0 rows from joining fun to fun			% Printed 0 rows from joining fun to fun
+% Created bst index for table choose on column doorway		% Created bst index for table choose on column doorway
+% Printed 0 rows from joining choose to fun			% Printed 0 rows from joining choose to fun
+% Printed 1788 rows from joining justify to justify		% Printed 1788 rows from joining justify to justify
+% Printed 1370 matching rows from justify			% Printed 1370 matching rows from justify
+% Printed 2121 rows from joining justify to choose		% Printed 2121 rows from joining justify to choose
+% Printed 130 matching rows from fun				% Printed 130 matching rows from fun
+% Printed 1788 rows from joining justify to justify		% Printed 1788 rows from joining justify to justify
+% Printed 315 matching rows from choose				% Printed 315 matching rows from choose
+% Table fun deleted						% Table fun deleted
+% Printed 303 matching rows from justify		      |	% Printed 261 matching rows from justify
+% Printed 0 matching rows from justify				% Printed 0 matching rows from justify
+% Added 307 rows to justify from position 1370 to 1676		% Added 307 rows to justify from position 1370 to 1676
+% New table particular with column(s) christianity talented s	% New table particular with column(s) christianity talented s
+% Printed 0 matching rows from particular			% Printed 0 matching rows from particular
+% Added 389 rows to choose from position 315 to 703		% Added 389 rows to choose from position 315 to 703
+% Created bst index for table choose on column nomination	% Created bst index for table choose on column nomination
+% Deleted 363 rows from choose				      |	% Deleted 0 rows from choose
+% New table construction with column(s) honor distract sugges	% New table construction with column(s) honor distract sugges
+% Printed 2307 rows from joining justify to justify		% Printed 2307 rows from joining justify to justify
+% Added 338 rows to particular from position 0 to 337		% Added 338 rows to particular from position 0 to 337
+% Created bst index for table particular on column toward	% Created bst index for table particular on column toward
+% Printed 131 rows from joining choose to justify	      |	% Printed 278 rows from joining choose to justify
+% New table gather with column(s) extra hurry dancing transpo	% New table gather with column(s) extra hurry dancing transpo
+% Created hash index for table gather on column jacket		% Created hash index for table gather on column jacket
+% Added 380 rows to justify from position 1677 to 2056		% Added 380 rows to justify from position 1677 to 2056
+% Printed 0 matching rows from construction			% Printed 0 matching rows from construction
+% Printed 0 rows from joining gather to gather			% Printed 0 rows from joining gather to gather
+% Printed 341 matching rows from choose			      |	% Printed 704 matching rows from choose
+% Printed 0 matching rows from choose				% Printed 0 matching rows from choose
+% Added 378 rows to construction from position 0 to 377		% Added 378 rows to construction from position 0 to 377
+% Added 319 rows to gather from position 0 to 318		% Added 319 rows to gather from position 0 to 318
+% Table gather deleted						% Table gather deleted
+% Printed 0 matching rows from construction			% Printed 0 matching rows from construction
+% Printed 338 matching rows from particular			% Printed 338 matching rows from particular
+% Printed 341 matching rows from choose			      |	% Printed 704 matching rows from choose
+% Printed 57388 rows from joining particular to particular	% Printed 57388 rows from joining particular to particular
+% Printed 0 matching rows from choose				% Printed 0 matching rows from choose
+% Printed 378 matching rows from construction			% Printed 378 matching rows from construction
+% Created hash index for table construction on column trend	% Created hash index for table construction on column trend
+% Printed 355322 rows from joining justify to choose	      |	% Printed 723767 rows from joining justify to choose
+% Added 368 rows to construction from position 378 to 745	% Added 368 rows to construction from position 378 to 745
+% Printed 0 matching rows from choose				% Printed 0 matching rows from choose
+% Printed 341 matching rows from choose			      |	% Printed 704 matching rows from choose
+% Printed 541 matching rows from construction			% Printed 541 matching rows from construction
+% Printed 57970 rows from joining choose to choose	      |	% Printed 247324 rows from joining choose to choose
+% Printed 0 matching rows from choose			      |	% Printed 363 matching rows from choose
+% Printed 746 matching rows from construction			% Printed 746 matching rows from construction
+% Printed 0 matching rows from justify				% Printed 0 matching rows from justify
+% Printed 125878 rows from joining construction to particular	% Printed 125878 rows from joining construction to particular
+% Printed 341 matching rows from choose			      |	% Printed 704 matching rows from choose
+% Added 400 rows to construction from position 746 to 1145	% Added 400 rows to construction from position 746 to 1145
+% Printed 57970 rows from joining choose to choose	      |	% Printed 247324 rows from joining choose to choose
+% Created hash index for table particular on column verbal	% Created hash index for table particular on column verbal
+% Added 309 rows to construction from position 1146 to 1454	% Added 309 rows to construction from position 1146 to 1454
+% Printed 1694 matching rows from justify		      |	% Printed 1121 matching rows from justify
+% Printed 0 matching rows from particular			% Printed 0 matching rows from particular
+% Printed 341 matching rows from choose			      |	% Printed 704 matching rows from choose
+% Printed 27 rows from joining particular to choose	      |	% Printed 51 rows from joining particular to choose
+% Table justify deleted						% Table justify deleted
+% Added 341 rows to particular from position 338 to 678		% Added 341 rows to particular from position 338 to 678
+% New table high with column(s) herb now pioneer surprise com	% New table high with column(s) herb now pioneer surprise com
+% Printed 2472 rows from joining choose to construction	      |	% Printed 4999 rows from joining choose to construction
+% Printed 223 rows from joining construction to particular	% Printed 223 rows from joining construction to particular
+% Printed 979 matching rows from construction			% Printed 979 matching rows from construction
+% Added 333 rows to high from position 0 to 332			% Added 333 rows to high from position 0 to 332
+% Deleted 36 rows from particular				% Deleted 36 rows from particular
+% Printed 54 rows from joining high to particular		% Printed 54 rows from joining high to particular
+% Printed 57970 rows from joining choose to choose	      |	% Printed 247324 rows from joining choose to choose
+% Printed 0 matching rows from choose			      |	% Printed 363 matching rows from choose
+% Printed 55242 rows from joining high to choose	      |	% Printed 117315 rows from joining high to choose
+% Printed 2472 rows from joining choose to construction	      |	% Printed 4999 rows from joining choose to construction
+% Created bst index for table high on column surprise		% Created bst index for table high on column surprise
+% Printed 172 matching rows from particular			% Printed 172 matching rows from particular
+% Printed 341 matching rows from choose			      |	% Printed 1 matching rows from choose
+% Printed 26 rows from joining choose to high		      |	% Printed 59 rows from joining choose to high
+% Printed 48 rows from joining particular to high		% Printed 48 rows from joining particular to high
+% Added 348 rows to particular from position 643 to 990		% Added 348 rows to particular from position 643 to 990
+% Printed 81 rows from joining choose to particular	      |	% Printed 158 rows from joining choose to particular
+% Printed 57970 rows from joining choose to choose	      |	% Printed 247324 rows from joining choose to choose
+% Printed 2472 rows from joining choose to construction	      |	% Printed 4999 rows from joining choose to construction
+% Created hash index for table construction on column heritag	% Created hash index for table construction on column heritag
+% Printed 0 matching rows from choose				% Printed 0 matching rows from choose
+% Printed 29 matching rows from high				% Printed 29 matching rows from high
+% Printed 333 matching rows from high				% Printed 333 matching rows from high
+% Added 356 rows to particular from position 991 to 1346	% Added 356 rows to particular from position 991 to 1346
+% Printed 242289 rows from joining high to construction		% Printed 242289 rows from joining high to construction
+% Added 333 rows to particular from position 1347 to 1679	% Added 333 rows to particular from position 1347 to 1679
+% Printed 26 rows from joining choose to high		      |	% Printed 59 rows from joining choose to high
+% Printed 537 rows from joining construction to particular	% Printed 537 rows from joining construction to particular
+% Created bst index for table particular on column democratic	% Created bst index for table particular on column democratic
+% Printed 162 matching rows from high			      |	% Printed 154 matching rows from high
+% Printed 341 matching rows from choose			      |	% Printed 704 matching rows from choose
+% Added 392 rows to particular from position 1680 to 2071	% Added 392 rows to particular from position 1680 to 2071
+% New table math with column(s) eyebrow overlook employer exp	% New table math with column(s) eyebrow overlook employer exp
+% Added 347 rows to construction from position 1455 to 1801	% Added 347 rows to construction from position 1455 to 1801
+% Created bst index for table high on column now		% Created bst index for table high on column now
+% Added 306 rows to particular from position 2072 to 2377	% Added 306 rows to particular from position 2072 to 2377
+% Printed 885 rows from joining high to high			% Printed 885 rows from joining high to high
+% Created bst index for table choose on column capture		% Created bst index for table choose on column capture
+% Printed 333 matching rows from high				% Printed 333 matching rows from high
+% Printed 280 matching rows from particular		      |	% Printed 203 matching rows from particular
+% Printed 0 matching rows from high				% Printed 0 matching rows from high
+% Added 320 rows to high from position 333 to 652		% Added 320 rows to high from position 333 to 652
+% Added 316 rows to particular from position 2378 to 2693	% Added 316 rows to particular from position 2378 to 2693
+% New table album with column(s) serve hide style slip leg ti	% New table album with column(s) serve hide style slip leg ti
+% Printed 2427154 rows from joining particular to constructio	% Printed 2427154 rows from joining particular to constructio
+% Printed 0 matching rows from math				% Printed 0 matching rows from math
+% Added 312 rows to particular from position 2694 to 3005	% Added 312 rows to particular from position 2694 to 3005
+% Printed 3006 matching rows from particular			% Printed 3006 matching rows from particular
+% Added 396 rows to particular from position 3006 to 3401	% Added 396 rows to particular from position 3006 to 3401
+% Added 395 rows to particular from position 3402 to 3796	% Added 395 rows to particular from position 3402 to 3796
+% Printed 0 matching rows from album				% Printed 0 matching rows from album
+% Deleted 265 rows from high					% Deleted 265 rows from high
+% Printed 0 rows from joining math to choose			% Printed 0 rows from joining math to choose
+% Table construction deleted					% Table construction deleted
+% Added 389 rows to particular from position 3797 to 4185	% Added 389 rows to particular from position 3797 to 4185
+% Printed 4040 rows from joining particular to particular	% Printed 4040 rows from joining particular to particular
+% Added 354 rows to choose from position 341 to 694	      |	% Added 354 rows to choose from position 704 to 1057
+% Table choose deleted						% Table choose deleted
+% Printed 1568 rows from joining high to high			% Printed 1568 rows from joining high to high
+% Printed 1199 matching rows from particular		      |	% Printed 474 matching rows from particular
+% Deleted 0 rows from high					% Deleted 0 rows from high
+% Added 323 rows to particular from position 4186 to 4508	% Added 323 rows to particular from position 4186 to 4508
+% Deleted 0 rows from particular			      |	% Deleted 2349 rows from particular
+% Added 398 rows to particular from position 4509 to 4906     |	% Added 398 rows to particular from position 2160 to 2557
+% Created bst index for table album on column slip		% Created bst index for table album on column slip
+% Printed 0 rows from joining math to high			% Printed 0 rows from joining math to high
+% Added 327 rows to particular from position 4907 to 5233     |	% Added 327 rows to particular from position 2558 to 2884
+% Printed 388 matching rows from high				% Printed 388 matching rows from high
+% Created hash index for table math on column shape		% Created hash index for table math on column shape
+% Printed 5234 matching rows from particular		      |	% Printed 2885 matching rows from particular
+% Printed 4 rows from joining particular to high	      |	% Printed 2 rows from joining particular to high
+% Printed 0 matching rows from math				% Printed 0 matching rows from math
+% Printed 0 rows from joining album to math			% Printed 0 rows from joining album to math
+% Printed 6356 rows from joining particular to particular     |	% Printed 1891 rows from joining particular to particular
+% Printed 0 matching rows from album				% Printed 0 matching rows from album
+% Created bst index for table particular on column talented	% Created bst index for table particular on column talented
+% Printed 10061 rows from joining high to particular	      |	% Printed 5551 rows from joining high to particular
+% Printed 0 rows from joining math to high			% Printed 0 rows from joining math to high
+% Printed 0 rows from joining math to math			% Printed 0 rows from joining math to math
+% Printed 0 rows from joining album to particular		% Printed 0 rows from joining album to particular
+% Added 394 rows to album from position 0 to 393		% Added 394 rows to album from position 0 to 393
+% Deleted 250 rows from album					% Deleted 250 rows from album
+% Printed 0 matching rows from high			      |	% Printed 114 matching rows from high
+% Printed 0 rows from joining math to high			% Printed 0 rows from joining math to high
+% Printed 388 matching rows from high			      |	% Printed 103 matching rows from high
+% Printed 0 rows from joining math to album			% Printed 0 rows from joining math to album
+% Deleted 305 rows from high					% Deleted 305 rows from high
+% Printed 2190 rows from joining particular to high	      |	% Printed 1184 rows from joining particular to high
+% Printed 0 matching rows from math				% Printed 0 matching rows from math
+% Added 351 rows to high from position 83 to 433		% Added 351 rows to high from position 83 to 433
+% Printed 0 matching rows from album				% Printed 0 matching rows from album
+% Deleted 1 rows from high					% Deleted 1 rows from high
+% Deleted 31 rows from high					% Deleted 31 rows from high
+% New table manipulate with column(s) airplane thick mom red 	% New table manipulate with column(s) airplane thick mom red 
+% Added 322 rows to math from position 0 to 321			% Added 322 rows to math from position 0 to 321
+% Printed 254 matching rows from high			      |	% Printed 280 matching rows from high
+% Added 331 rows to math from position 322 to 652		% Added 331 rows to math from position 322 to 652
+% Printed 653 matching rows from math				% Printed 653 matching rows from math
+% Printed 402 matching rows from high				% Printed 402 matching rows from high
+% Printed 0 rows from joining math to album			% Printed 0 rows from joining math to album
+% Printed 653 matching rows from math				% Printed 653 matching rows from math
+% Added 334 rows to particular from position 5234 to 5567     |	% Added 334 rows to particular from position 2885 to 3218
+% Created hash index for table math on column overlook		% Created hash index for table math on column overlook
+% Printed 0 rows from joining math to album			% Printed 0 rows from joining math to album
+% Added 398 rows to particular from position 5568 to 5965     |	% Added 398 rows to particular from position 3219 to 3616
+% Printed 303 rows from joining album to high			% Printed 303 rows from joining album to high
+% Printed 653 matching rows from math				% Printed 653 matching rows from math
+% Added 334 rows to manipulate from position 0 to 333		% Added 334 rows to manipulate from position 0 to 333
+% Deleted 0 rows from high					% Deleted 0 rows from high
+% Printed 24 matching rows from high			      |	% Printed 57 matching rows from high
+% New table store with column(s) rarely considerable cure mus	% New table store with column(s) rarely considerable cure mus
+% Deleted 190 rows from high					% Deleted 190 rows from high
+% Printed 212 matching rows from high				% Printed 212 matching rows from high
+% Printed 0 rows from joining high to album			% Printed 0 rows from joining high to album
+% New table use with column(s) entirely call significance unp	% New table use with column(s) entirely call significance unp
+% Printed 0 rows from joining store to math			% Printed 0 rows from joining store to math
+% Printed 0 matching rows from use				% Printed 0 matching rows from use
+% Printed 641 matching rows from math				% Printed 641 matching rows from math
+% Created hash index for table use on column die		% Created hash index for table use on column die
+% Printed 0 matching rows from album				% Printed 0 matching rows from album
+% Created bst index for table high on column herb		% Created bst index for table high on column herb
+% Added 379 rows to math from position 653 to 1031		% Added 379 rows to math from position 653 to 1031
+% Added 306 rows to use from position 0 to 305			% Added 306 rows to use from position 0 to 305
+% Printed 411 rows from joining particular to use	      |	% Printed 242 rows from joining particular to use
+% Created bst index for table album on column hunt		% Created bst index for table album on column hunt
+% Table manipulate deleted					% Table manipulate deleted
+% Printed 13 rows from joining high to use			% Printed 13 rows from joining high to use
+% Printed 141 matching rows from high				% Printed 141 matching rows from high
+% Printed 2 rows from joining album to math			% Printed 2 rows from joining album to math
+% Printed 0 matching rows from store				% Printed 0 matching rows from store
+% Printed 24 rows from joining use to use			% Printed 24 rows from joining use to use
+% Table high deleted						% Table high deleted
+% Printed 1 matching rows from album				% Printed 1 matching rows from album
+% Printed 1032 matching rows from math				% Printed 1032 matching rows from math
+% Printed 0 matching rows from store				% Printed 0 matching rows from store
+% Printed 0 matching rows from math				% Printed 0 matching rows from math
+% New table subject with column(s) influence courtroom unite 	% New table subject with column(s) influence courtroom unite 
+% Printed 0 rows from joining store to album			% Printed 0 rows from joining store to album
+% Printed 2 rows from joining use to math			% Printed 2 rows from joining use to math
+% Printed 0 rows from joining subject to use			% Printed 0 rows from joining subject to use
+% Printed 11 rows from joining album to use			% Printed 11 rows from joining album to use
+% Printed 0 matching rows from subject				% Printed 0 matching rows from subject
+% Created bst index for table particular on column ambassador	% Created bst index for table particular on column ambassador
+% Printed 411 rows from joining particular to use	      |	% Printed 242 rows from joining particular to use
+% Printed 1032 matching rows from math				% Printed 1032 matching rows from math
+% Added 365 rows to particular from position 5966 to 6330     |	% Added 365 rows to particular from position 3617 to 3981
+% Printed 0 rows from joining subject to use			% Printed 0 rows from joining subject to use
+% Printed 0 matching rows from album				% Printed 0 matching rows from album
+% Added 344 rows to album from position 144 to 487		% Added 344 rows to album from position 144 to 487
+% Added 355 rows to store from position 0 to 354		% Added 355 rows to store from position 0 to 354
+% Created hash index for table album on column existence	% Created hash index for table album on column existence
+% Printed 0 rows from joining subject to particular		% Printed 0 rows from joining subject to particular
+% Created bst index for table particular on column talented	% Created bst index for table particular on column talented
+% Deleted 479 rows from album					% Deleted 479 rows from album
+% Deleted 1266 rows from particular			      |	% Deleted 798 rows from particular
+% Table store deleted						% Table store deleted
+% Added 349 rows to math from position 1032 to 1380		% Added 349 rows to math from position 1032 to 1380
+% New table airport with column(s) contractor overwhelm proce	% New table airport with column(s) contractor overwhelm proce
+% Added 347 rows to airport from position 0 to 346		% Added 347 rows to airport from position 0 to 346
+% Printed 0 rows from joining subject to use			% Printed 0 rows from joining subject to use
+% Printed 285 matching rows from airport			% Printed 285 matching rows from airport
+% Printed 2331 rows from joining airport to math		% Printed 2331 rows from joining airport to math
+% Printed 0 matching rows from subject				% Printed 0 matching rows from subject
+% Added 320 rows to album from position 9 to 328		% Added 320 rows to album from position 9 to 328
+% Printed 5065 matching rows from particular		      |	% Printed 3184 matching rows from particular
+% Added 330 rows to album from position 329 to 658		% Added 330 rows to album from position 329 to 658
+% Printed 347 matching rows from airport			% Printed 347 matching rows from airport
+% Printed 65 matching rows from album				% Printed 65 matching rows from album
+% Added 364 rows to particular from position 5065 to 5428     |	% Added 364 rows to particular from position 3184 to 3547
+% Printed 38097 rows from joining math to particular	      |	% Printed 24809 rows from joining math to particular
+% Created hash index for table airport on column into		% Created hash index for table airport on column into
+% Printed 1 rows from joining airport to math			% Printed 1 rows from joining airport to math
+% Printed 256 matching rows from airport			% Printed 256 matching rows from airport
+% Printed 306 matching rows from use				% Printed 306 matching rows from use
+% Printed 8447 rows from joining use to particular	      |	% Printed 5516 rows from joining use to particular
+% Printed 0 matching rows from album				% Printed 0 matching rows from album
+% Added 328 rows to particular from position 5429 to 5756     |	% Added 328 rows to particular from position 3548 to 3875
+% Printed 19039 rows from joining particular to album	      |	% Printed 12714 rows from joining particular to album
+% Printed 0 matching rows from subject				% Printed 0 matching rows from subject
+% Printed 0 rows from joining subject to use			% Printed 0 rows from joining subject to use
+% Printed 659 matching rows from album				% Printed 659 matching rows from album
+% Printed 659 matching rows from album				% Printed 659 matching rows from album
+% Added 334 rows to math from position 1381 to 1714		% Added 334 rows to math from position 1381 to 1714
+% New table majority with column(s) poke scramble complain go	% New table majority with column(s) poke scramble complain go
+% Printed 659 matching rows from album				% Printed 659 matching rows from album
+% Printed 0 matching rows from subject				% Printed 0 matching rows from subject
+% Deleted 1 rows from album					% Deleted 1 rows from album
+% Added 328 rows to subject from position 0 to 327		% Added 328 rows to subject from position 0 to 327
+% Added 354 rows to particular from position 5757 to 6110     |	% Added 354 rows to particular from position 3876 to 4229
+% Printed 22 rows from joining subject to airport		% Printed 22 rows from joining subject to airport
+% Added 317 rows to airport from position 347 to 663		% Added 317 rows to airport from position 347 to 663
+% Printed 1234 matching rows from math				% Printed 1234 matching rows from math
+% Printed 9537 rows from joining use to particular	      |	% Printed 6606 rows from joining use to particular
+% Printed 6111 matching rows from particular		      |	% Printed 4230 matching rows from particular
+% Printed 532 matching rows from airport			% Printed 532 matching rows from airport
+% Added 338 rows to use from position 306 to 643		% Added 338 rows to use from position 306 to 643
+% Printed 1559 matching rows from particular		      |	% Printed 852 matching rows from particular
+% Printed 0 matching rows from math				% Printed 0 matching rows from math
+% Created bst index for table subject on column scientist	% Created bst index for table subject on column scientist
+% Printed 6111 matching rows from particular		      |	% Printed 4230 matching rows from particular
+% Added 361 rows to album from position 658 to 1018		% Added 361 rows to album from position 658 to 1018
+% New table affect with column(s) structure much questionnair	% New table affect with column(s) structure much questionnair
+% Added 305 rows to particular from position 6111 to 6415     |	% Added 305 rows to particular from position 4230 to 4534
+% Printed 6416 matching rows from particular		      |	% Printed 4535 matching rows from particular
+% Created bst index for table album on column customer		% Created bst index for table album on column customer
+% Printed 20723 rows from joining use to particular	      |	% Printed 14687 rows from joining use to particular
+% Printed 0 matching rows from majority				% Printed 0 matching rows from majority
+% Printed 0 matching rows from affect				% Printed 0 matching rows from affect
+% Created hash index for table math on column interpret		% Created hash index for table math on column interpret
+% Printed 167 matching rows from subject			% Printed 167 matching rows from subject
+% Printed 0 rows from joining majority to particular		% Printed 0 rows from joining majority to particular
+% Printed 0 matching rows from majority				% Printed 0 matching rows from majority
+% New table impulse with column(s) dancing asian which underg	% New table impulse with column(s) dancing asian which underg
+% Deleted 83 rows from use					% Deleted 83 rows from use
+% Deleted 161 rows from subject				      |	% Deleted 0 rows from subject
+% Printed 0 matching rows from affect				% Printed 0 matching rows from affect
+% Printed 528 matching rows from album				% Printed 528 matching rows from album
+% Printed 139111 rows from joining math to subject	      |	% Printed 281113 rows from joining math to subject
+% Added 348 rows to majority from position 0 to 347		% Added 348 rows to majority from position 0 to 347
+% Printed 0 rows from joining impulse to album			% Printed 0 rows from joining impulse to album
+% Created hash index for table majority on column poke		% Created hash index for table majority on column poke
+% Added 379 rows to subject from position 167 to 545	      |	% Added 379 rows to subject from position 328 to 706
+% Added 344 rows to use from position 561 to 904		% Added 344 rows to use from position 561 to 904
+% Deleted 0 rows from airport					% Deleted 0 rows from airport
+% Printed 0 rows from joining impulse to subject		% Printed 0 rows from joining impulse to subject
+% Printed 0 matching rows from math			      |	% Printed 886 matching rows from math
+% Printed 487 matching rows from airport			% Printed 487 matching rows from airport
+% Printed 1019 matching rows from album				% Printed 1019 matching rows from album
+% Printed 0 matching rows from impulse				% Printed 0 matching rows from impulse
+% Added 385 rows to math from position 1715 to 2099		% Added 385 rows to math from position 1715 to 2099
+% Printed 33062 rows from joining album to particular	      |	% Printed 23317 rows from joining album to particular
+% Printed 348 matching rows from majority			% Printed 348 matching rows from majority
+% Printed 0 matching rows from impulse				% Printed 0 matching rows from impulse
+% Added 324 rows to impulse from position 0 to 323		% Added 324 rows to impulse from position 0 to 323
+% Printed 905 matching rows from use				% Printed 905 matching rows from use
+% Printed 185322 rows from joining airport to subject	      |	% Printed 234749 rows from joining airport to subject
+% Added 368 rows to math from position 2100 to 2467		% Added 368 rows to math from position 2100 to 2467
+% Printed 10264 rows from joining impulse to particular	      |	% Printed 7251 rows from joining impulse to particular
+% Added 318 rows to use from position 905 to 1222		% Added 318 rows to use from position 905 to 1222
+% Table particular deleted					% Table particular deleted
+% Printed 57 rows from joining majority to airport		% Printed 57 rows from joining majority to airport
+% Added 335 rows to majority from position 348 to 682		% Added 335 rows to majority from position 348 to 682
+% Created hash index for table use on column existence		% Created hash index for table use on column existence
+% Printed 5 matching rows from use				% Printed 5 matching rows from use
+% Printed 6224 rows from joining album to use			% Printed 6224 rows from joining album to use
+% Printed 0 matching rows from subject				% Printed 0 matching rows from subject
+% Printed 913 matching rows from use				% Printed 913 matching rows from use
+% Printed 165226 rows from joining impulse to album		% Printed 165226 rows from joining impulse to album
+% New table beard with column(s) latin prosecution respective	% New table beard with column(s) latin prosecution respective
+% Deleted 9 rows from use					% Deleted 9 rows from use
+% Printed 540 matching rows from use				% Printed 540 matching rows from use
+% Printed 4156 rows from joining use to majority		% Printed 4156 rows from joining use to majority
+% Printed 1019 matching rows from album				% Printed 1019 matching rows from album
+% Added 343 rows to use from position 1214 to 1556		% Added 343 rows to use from position 1214 to 1556
+% Deleted 0 rows from impulse				      |	% Deleted 153 rows from impulse
+% Added 357 rows to math from position 2468 to 2824		% Added 357 rows to math from position 2468 to 2824
+% Added 345 rows to impulse from position 324 to 668	      |	% Added 345 rows to impulse from position 171 to 515
+% Created hash index for table album on column style		% Created hash index for table album on column style
+% Printed 1378 matching rows from math			      |	% Printed 0 matching rows from math
+% Printed 3430 rows from joining airport to album		% Printed 3430 rows from joining airport to album
+% New table love with column(s) portfolio spanish comparable 	% New table love with column(s) portfolio spanish comparable 
+% Printed 546 matching rows from subject		      |	% Printed 707 matching rows from subject
+% Printed 1019 matching rows from album				% Printed 1019 matching rows from album
+% Created bst index for table album on column other		% Created bst index for table album on column other
+% Table impulse deleted						% Table impulse deleted
+% Printed 454 matching rows from majority			% Printed 454 matching rows from majority
+% Printed 0 matching rows from affect				% Printed 0 matching rows from affect
+% Created hash index for table majority on column absence	% Created hash index for table majority on column absence
+% Created bst index for table beard on column interesting	% Created bst index for table beard on column interesting
+% Deleted 0 rows from beard					% Deleted 0 rows from beard
+% Printed 1557 matching rows from use				% Printed 1557 matching rows from use
+% Printed 0 rows from joining beard to beard			% Printed 0 rows from joining beard to beard
+% Printed 0 rows from joining beard to majority			% Printed 0 rows from joining beard to majority
+% Added 357 rows to album from position 1019 to 1375		% Added 357 rows to album from position 1019 to 1375
+% Added 399 rows to love from position 0 to 398			% Added 399 rows to love from position 0 to 398
+% Added 337 rows to album from position 1376 to 1712		% Added 337 rows to album from position 1376 to 1712
+% Deleted 354 rows from subject					% Deleted 354 rows from subject
+% Printed 2825 matching rows from math				% Printed 2825 matching rows from math
+% Printed 0 matching rows from affect				% Printed 0 matching rows from affect
+% Printed 1447 matching rows from math			      |	% Printed 0 matching rows from math
+% Added 351 rows to affect from position 0 to 350		% Added 351 rows to affect from position 0 to 350
+% Added 344 rows to beard from position 0 to 343		% Added 344 rows to beard from position 0 to 343
+% Printed 2825 matching rows from math				% Printed 2825 matching rows from math
+% Printed 431 rows from joining math to airport			% Printed 431 rows from joining math to airport
+% Created hash index for table math on column regain		% Created hash index for table math on column regain
+% Printed 998 rows from joining use to math			% Printed 998 rows from joining use to math
+% New table contractor with column(s) today mix sidewalk mutu	% New table contractor with column(s) today mix sidewalk mutu
+% Deleted 0 rows from subject					% Deleted 0 rows from subject
+% Created hash index for table album on column customer		% Created hash index for table album on column customer
+% Printed 1713 matching rows from album				% Printed 1713 matching rows from album
+% Added 325 rows to majority from position 683 to 1007		% Added 325 rows to majority from position 683 to 1007
+% Created bst index for table affect on column supermarket	% Created bst index for table affect on column supermarket
+% Created hash index for table subject on column bride		% Created hash index for table subject on column bride
+% Printed 1119 rows from joining album to math			% Printed 1119 rows from joining album to math
+% Deleted 1 rows from math					% Deleted 1 rows from math
+% New table silence with column(s) error stone ongoing americ	% New table silence with column(s) error stone ongoing americ
+% Printed 60 matching rows from airport				% Printed 60 matching rows from airport
+% Added 332 rows to love from position 399 to 730		% Added 332 rows to love from position 399 to 730
+% Deleted 2686 rows from math					% Deleted 2686 rows from math
+% Printed 0 matching rows from album			      |	% Printed 834 matching rows from album
+% Added 324 rows to use from position 1557 to 1880		% Added 324 rows to use from position 1557 to 1880
+% Deleted 0 rows from contractor				% Deleted 0 rows from contractor
+% Printed 35 rows from joining airport to subject	      |	% Printed 70 rows from joining airport to subject
+% Deleted 138 rows from math					% Deleted 138 rows from math
+% Added 362 rows to airport from position 664 to 1025		% Added 362 rows to airport from position 664 to 1025
+% Printed 355 matching rows from love				% Printed 355 matching rows from love
+% Added 308 rows to contractor from position 0 to 307		% Added 308 rows to contractor from position 0 to 307
+% Printed 0 rows from joining math to subject			% Printed 0 rows from joining math to subject
+% Printed 188 matching rows from affect			      |	% Printed 90 matching rows from affect
+% Printed 1609569 rows from joining use to album		% Printed 1609569 rows from joining use to album
+% Printed 0 rows from joining album to math			% Printed 0 rows from joining album to math
+% Deleted 6 rows from use					% Deleted 6 rows from use
+% Created hash index for table silence on column behavior	% Created hash index for table silence on column behavior
+% Printed 0 rows from joining math to silence			% Printed 0 rows from joining math to silence
+% Printed 879 matching rows from album			      |	% Printed 0 matching rows from album
+% Added 386 rows to math from position 0 to 385			% Added 386 rows to math from position 0 to 385
+% Printed 81 rows from joining math to majority			% Printed 81 rows from joining math to majority
+% Printed 386 matching rows from math				% Printed 386 matching rows from math
+% Printed 1026 matching rows from airport			% Printed 1026 matching rows from airport
+% Added 397 rows to silence from position 0 to 396		% Added 397 rows to silence from position 0 to 396
+% Printed 1008 matching rows from majority			% Printed 1008 matching rows from majority
+% Created hash index for table beard on column term		% Created hash index for table beard on column term
+% Printed 77 matching rows from affect				% Printed 77 matching rows from affect
+% Added 367 rows to beard from position 344 to 710		% Added 367 rows to beard from position 344 to 710
+% Printed 165303 rows from joining subject to album	      |	% Printed 303357 rows from joining subject to album
+% Printed 1713 matching rows from album				% Printed 1713 matching rows from album
+% Printed 125 matching rows from subject		      |	% Printed 236 matching rows from subject
+% Deleted 0 rows from majority					% Deleted 0 rows from majority
+% Printed 263 matching rows from beard				% Printed 263 matching rows from beard
+% Printed 549 rows from joining contractor to affect		% Printed 549 rows from joining contractor to affect
+% Deleted 0 rows from math					% Deleted 0 rows from math
+% Printed 339648 rows from joining silence to album		% Printed 339648 rows from joining silence to album
+% Printed 0 matching rows from love				% Printed 0 matching rows from love
+% Printed 0 rows from joining math to beard			% Printed 0 rows from joining math to beard
+% Printed 34 matching rows from affect				% Printed 34 matching rows from affect
+% Added 324 rows to airport from position 1026 to 1349		% Added 324 rows to airport from position 1026 to 1349
+% Printed 63 matching rows from affect				% Printed 63 matching rows from affect
+% Printed 1008 matching rows from majority			% Printed 1008 matching rows from majority
+% New table mess with column(s) practically flame shop ongoin	% New table mess with column(s) practically flame shop ongoin
+% Added 334 rows to love from position 731 to 1064		% Added 334 rows to love from position 731 to 1064
+% Added 303 rows to affect from position 351 to 653		% Added 303 rows to affect from position 351 to 653
+% Printed 386 matching rows from math				% Printed 386 matching rows from math
+% Printed 20 rows from joining math to subject		      |	% Printed 35 rows from joining math to subject
+% Added 319 rows to subject from position 192 to 510	      |	% Added 319 rows to subject from position 353 to 671
+% Deleted 1 rows from contractor				% Deleted 1 rows from contractor
+% Added 388 rows to affect from position 654 to 1041		% Added 388 rows to affect from position 654 to 1041
+% Deleted 339 rows from love					% Deleted 339 rows from love
+% Added 328 rows to love from position 726 to 1053		% Added 328 rows to love from position 726 to 1053
+% Deleted 0 rows from mess					% Deleted 0 rows from mess
+% Printed 386 matching rows from math				% Printed 386 matching rows from math
+% Created hash index for table majority on column scientific	% Created hash index for table majority on column scientific
+% Added 309 rows to beard from position 711 to 1019		% Added 309 rows to beard from position 711 to 1019
+% Added 377 rows to math from position 386 to 762		% Added 377 rows to math from position 386 to 762
+% Printed 1875 matching rows from use				% Printed 1875 matching rows from use
+% Deleted 0 rows from subject					% Deleted 0 rows from subject
+% Printed 12850 rows from joining airport to use		% Printed 12850 rows from joining airport to use
+% Printed 113 rows from joining contractor to airport		% Printed 113 rows from joining contractor to airport
+% Deleted 0 rows from contractor				% Deleted 0 rows from contractor
+% Table affect deleted						% Table affect deleted
+% Printed 0 matching rows from love			      |	% Printed 553 matching rows from love
+% Printed 0 rows from joining mess to silence			% Printed 0 rows from joining mess to silence
+% Added 330 rows to math from position 763 to 1092		% Added 330 rows to math from position 763 to 1092
+% Added 318 rows to math from position 1093 to 1410		% Added 318 rows to math from position 1093 to 1410
+% Printed 754 matching rows from airport			% Printed 754 matching rows from airport
+% Added 354 rows to album from position 1713 to 2066		% Added 354 rows to album from position 1713 to 2066
+% Printed 974 matching rows from use				% Printed 974 matching rows from use
+% Printed 0 rows from joining silence to silence		% Printed 0 rows from joining silence to silence
+% Printed 1221 matching rows from math				% Printed 1221 matching rows from math
+% Added 312 rows to album from position 2067 to 2378		% Added 312 rows to album from position 2067 to 2378
+% Added 339 rows to mess from position 0 to 338			% Added 339 rows to mess from position 0 to 338
+% Printed 180 matching rows from contractor			% Printed 180 matching rows from contractor
+% Printed 1875 matching rows from use				% Printed 1875 matching rows from use
+% Printed 1199106 rows from joining album to majority		% Printed 1199106 rows from joining album to majority
+% Added 344 rows to contractor from position 307 to 650		% Added 344 rows to contractor from position 307 to 650
+% Printed 292 matching rows from mess				% Printed 292 matching rows from mess
+% Printed 145 rows from joining airport to subject	      |	% Printed 207 rows from joining airport to subject
+% Printed 295 matching rows from subject		      |	% Printed 397 matching rows from subject
+% Created hash index for table majority on column brilliant	% Created hash index for table majority on column brilliant
+% Printed 563 rows from joining album to majority		% Printed 563 rows from joining album to majority
+% Added 353 rows to album from position 2379 to 2731		% Added 353 rows to album from position 2379 to 2731
+% Added 301 rows to beard from position 1020 to 1320		% Added 301 rows to beard from position 1020 to 1320
+% Printed 1350 matching rows from airport			% Printed 1350 matching rows from airport
+% Printed 339 matching rows from mess				% Printed 339 matching rows from mess
+% Deleted 326 rows from subject				      |	% Deleted 436 rows from subject
+% Printed 25579 rows from joining album to use			% Printed 25579 rows from joining album to use
+% Printed 114 rows from joining mess to math			% Printed 114 rows from joining mess to math
+% Printed 1376536 rows from joining majority to album		% Printed 1376536 rows from joining majority to album
+% Printed 1404 matching rows from math				% Printed 1404 matching rows from math
+% Created hash index for table silence on column transfer	% Created hash index for table silence on column transfer
+% Printed 9 rows from joining album to beard			% Printed 9 rows from joining album to beard
+% Deleted 0 rows from airport					% Deleted 0 rows from airport
+% Added 333 rows to subject from position 185 to 517	      |	% Added 333 rows to subject from position 236 to 568
+% Printed 321 rows from joining love to airport			% Printed 321 rows from joining love to airport
+% Printed 1321 matching rows from beard				% Printed 1321 matching rows from beard
+% Printed 638 rows from joining use to airport			% Printed 638 rows from joining use to airport
+% Created hash index for table mess on column duck		% Created hash index for table mess on column duck
+% Printed 3732164 rows from joining album to album		% Printed 3732164 rows from joining album to album
+% Added 352 rows to album from position 2732 to 3083		% Added 352 rows to album from position 2732 to 3083
+% Deleted 0 rows from majority					% Deleted 0 rows from majority
+% New table pine with column(s) belong commercial holy touch 	% New table pine with column(s) belong commercial holy touch 
+% Printed 1010 matching rows from math				% Printed 1010 matching rows from math
+% Added 321 rows to album from position 3084 to 3404		% Added 321 rows to album from position 3084 to 3404
+% Added 305 rows to airport from position 1350 to 1654		% Added 305 rows to airport from position 1350 to 1654
+% Added 320 rows to pine from position 0 to 319			% Added 320 rows to pine from position 0 to 319
+% Printed 1340 matching rows from use				% Printed 1340 matching rows from use
+% Deleted 1686 rows from album				      |	% Deleted 0 rows from album
+% Added 382 rows to pine from position 320 to 701		% Added 382 rows to pine from position 320 to 701
+% Added 390 rows to pine from position 702 to 1091		% Added 390 rows to pine from position 702 to 1091
+% Printed 328 rows from joining math to majority		% Printed 328 rows from joining math to majority
+% Printed 246 rows from joining love to majority		% Printed 246 rows from joining love to majority
+% Printed 1321 matching rows from beard				% Printed 1321 matching rows from beard
+% Printed 1092 matching rows from pine				% Printed 1092 matching rows from pine
+% Printed 1092 matching rows from pine				% Printed 1092 matching rows from pine
+% Table subject deleted						% Table subject deleted
+% Printed 397 matching rows from silence			% Printed 397 matching rows from silence
+% Added 357 rows to math from position 1411 to 1767		% Added 357 rows to math from position 1411 to 1767
+% Added 349 rows to airport from position 1655 to 2003		% Added 349 rows to airport from position 1655 to 2003
+% Printed 322 rows from joining contractor to airport		% Printed 322 rows from joining contractor to airport
+% Printed 209 matching rows from beard				% Printed 209 matching rows from beard
+% Deleted 0 rows from silence				      |	% Deleted 209 rows from silence
+% Printed 651 matching rows from contractor			% Printed 651 matching rows from contractor
+% Added 372 rows to majority from position 1008 to 1379		% Added 372 rows to majority from position 1008 to 1379
+% Added 364 rows to pine from position 1092 to 1455		% Added 364 rows to pine from position 1092 to 1455
+% Printed 688 rows from joining album to math		      |	% Printed 1342 rows from joining album to math
+% Printed 1380 matching rows from majority			% Printed 1380 matching rows from majority
+% Printed 0 matching rows from beard				% Printed 0 matching rows from beard
+% Printed 208505 rows from joining love to silence	      |	% Printed 105468 rows from joining love to silence
+% Added 381 rows to silence from position 397 to 777	      |	% Added 381 rows to silence from position 188 to 568
+% New table consistently with column(s) essential driving fit	% New table consistently with column(s) essential driving fit
+% Added 342 rows to beard from position 1321 to 1662		% Added 342 rows to beard from position 1321 to 1662
+% Added 357 rows to love from position 1054 to 1410		% Added 357 rows to love from position 1054 to 1410
+% Printed 1665711 rows from joining airport to album	      |	% Printed 3410721 rows from joining airport to album
+% Printed 638 rows from joining beard to math			% Printed 638 rows from joining beard to math
+% Printed 470 rows from joining love to majority		% Printed 470 rows from joining love to majority
+% Table consistently deleted					% Table consistently deleted
+% Printed 1326 rows from joining silence to mess	      |	% Printed 985 rows from joining silence to mess
+% Printed 547844 rows from joining love to silence	      |	% Printed 412412 rows from joining love to silence
+% Deleted 811 rows from pine					% Deleted 811 rows from pine
+% Printed 0 matching rows from album			      |	% Printed 1719 matching rows from album
+% Created bst index for table beard on column extended		% Created bst index for table beard on column extended
+% Added 341 rows to majority from position 1380 to 1720		% Added 341 rows to majority from position 1380 to 1720
+% Added 303 rows to album from position 1719 to 2021	      |	% Added 303 rows to album from position 3405 to 3707
+% Added 332 rows to airport from position 2004 to 2335		% Added 332 rows to airport from position 2004 to 2335
+% Deleted 1314 rows from beard					% Deleted 1314 rows from beard
+% Deleted 176 rows from mess					% Deleted 176 rows from mess
+% Printed 1721 matching rows from majority			% Printed 1721 matching rows from majority
+% Printed 134 rows from joining beard to math			% Printed 134 rows from joining beard to math
+% New table commander with column(s) cotton guideline point d	% New table commander with column(s) cotton guideline point d
+% Printed 5 matching rows from mess				% Printed 5 matching rows from mess
+% Printed 786702 rows from joining album to silence	      |	% Printed 1054353 rows from joining album to silence
+% Table beard deleted						% Table beard deleted
+% Printed 163 matching rows from mess				% Printed 163 matching rows from mess
+% Printed 0 matching rows from commander			% Printed 0 matching rows from commander
+% Printed 398 matching rows from silence		      |	% Printed 189 matching rows from silence
+% Added 350 rows to commander from position 0 to 349		% Added 350 rows to commander from position 0 to 349
+% Printed 784844 rows from joining silence to album	      |	% Printed 1055164 rows from joining silence to album
+% Deleted 380 rows from silence				      |	% Deleted 0 rows from silence
+% Added 336 rows to love from position 1411 to 1746		% Added 336 rows to love from position 1411 to 1746
+% Printed 1875 matching rows from use				% Printed 1875 matching rows from use
+% Printed 1768 matching rows from math				% Printed 1768 matching rows from math
+% Printed 398 matching rows from silence		      |	% Printed 569 matching rows from silence
+% Printed 2336 matching rows from airport			% Printed 2336 matching rows from airport
+% Printed 1768 matching rows from math				% Printed 1768 matching rows from math
+% Printed 645 matching rows from pine				% Printed 645 matching rows from pine
+% Added 398 rows to commander from position 350 to 747		% Added 398 rows to commander from position 350 to 747
+% Table mess deleted						% Table mess deleted
+% New table radio with column(s) veteran grain grandparent wh	% New table radio with column(s) veteran grain grandparent wh
+% Added 373 rows to math from position 1768 to 2140		% Added 373 rows to math from position 1768 to 2140
+% Added 372 rows to album from position 2022 to 2393	      |	% Added 372 rows to album from position 3708 to 4079
+% Printed 748 matching rows from commander			% Printed 748 matching rows from commander
+% Deleted 5 rows from use					% Deleted 5 rows from use
+% Printed 1278 rows from joining airport to airport		% Printed 1278 rows from joining airport to airport
+% Created bst index for table airport on column cousin		% Created bst index for table airport on column cousin
+% Added 385 rows to album from position 2394 to 2778	      |	% Added 385 rows to album from position 4080 to 4464
+% Printed 25851 rows from joining album to use		      |	% Printed 41560 rows from joining album to use
+% Added 327 rows to contractor from position 651 to 977		% Added 327 rows to contractor from position 651 to 977
+% Printed 1225 matching rows from math				% Printed 1225 matching rows from math
+% Created hash index for table contractor on column constitut	% Created hash index for table contractor on column constitut
+% Deleted 0 rows from album				      |	% Deleted 2261 rows from album
+% Added 344 rows to commander from position 748 to 1091		% Added 344 rows to commander from position 748 to 1091
+% Printed 0 matching rows from radio				% Printed 0 matching rows from radio
+% Added 368 rows to love from position 1747 to 2114		% Added 368 rows to love from position 1747 to 2114
+% Added 345 rows to silence from position 398 to 742	      |	% Added 345 rows to silence from position 569 to 913
+% Printed 645 matching rows from pine				% Printed 645 matching rows from pine
+% Added 400 rows to radio from position 0 to 399		% Added 400 rows to radio from position 0 to 399
+% Added 364 rows to pine from position 645 to 1008		% Added 364 rows to pine from position 645 to 1008
+% Deleted 1241 rows from math					% Deleted 1241 rows from math
+% Printed 1920 matching rows from airport		      |	% Printed 165 matching rows from airport
+% Printed 3207526 rows from joining airport to album	      |	% Printed 2622760 rows from joining airport to album
+% Table airport deleted						% Table airport deleted
+% Printed 0 matching rows from commander			% Printed 0 matching rows from commander
+% Printed 1148 rows from joining album to majority	      |	% Printed 911 rows from joining album to majority
+% Printed 1031818 rows from joining album to silence	      |	% Printed 1008440 rows from joining album to silence
+% Printed 2779 matching rows from album			      |	% Printed 2204 matching rows from album
+% Printed 568 matching rows from majority			% Printed 568 matching rows from majority
+% Printed 497 matching rows from pine				% Printed 497 matching rows from pine
+% Printed 400 matching rows from radio				% Printed 400 matching rows from radio
+% Printed 718 matching rows from use				% Printed 718 matching rows from use
+% Printed 400 matching rows from radio				% Printed 400 matching rows from radio
+% Printed 1202 matching rows from love				% Printed 1202 matching rows from love
+% Added 390 rows to use from position 1870 to 2259		% Added 390 rows to use from position 1870 to 2259
+% Printed 770049 rows from joining love to silence	      |	% Printed 974736 rows from joining love to silence
+% Created bst index for table math on column experience		% Created bst index for table math on column experience
+% Added 322 rows to radio from position 400 to 721		% Added 322 rows to radio from position 400 to 721
+% Printed 867 matching rows from pine				% Printed 867 matching rows from pine
+% Printed 0 matching rows from album			      |	% Printed 2204 matching rows from album
+% Added 352 rows to use from position 2260 to 2611		% Added 352 rows to use from position 2260 to 2611
+% Added 355 rows to use from position 2612 to 2966		% Added 355 rows to use from position 2612 to 2966
+% Printed 3 matching rows from radio				% Printed 3 matching rows from radio
+% Printed 0 matching rows from radio				% Printed 0 matching rows from radio
+% Printed 2779 matching rows from album			      |	% Printed 2204 matching rows from album
+% Printed 1092 matching rows from commander			% Printed 1092 matching rows from commander
+% Deleted 178 rows from silence				      |	% Deleted 558 rows from silence
+% Printed 900 matching rows from math				% Printed 900 matching rows from math
+% Printed 2115 matching rows from love				% Printed 2115 matching rows from love
+% Table love deleted						% Table love deleted
+% New table nowhere with column(s) material next sight clothi	% New table nowhere with column(s) material next sight clothi
+% New table rifle with column(s) arrangement created		% New table rifle with column(s) arrangement created
+% Deleted 0 rows from silence				      |	% Deleted 356 rows from silence
+% Printed 0 matching rows from nowhere				% Printed 0 matching rows from nowhere
+% Printed 451 matching rows from math				% Printed 451 matching rows from math
+% Added 337 rows to album from position 2779 to 3115	      |	% Added 337 rows to album from position 2204 to 2540
+% Deleted 0 rows from nowhere					% Deleted 0 rows from nowhere
+% Added 391 rows to radio from position 722 to 1112		% Added 391 rows to radio from position 722 to 1112
+% Deleted 689 rows from album				      |	% Deleted 2375 rows from album
+% Printed 1009 matching rows from pine				% Printed 1009 matching rows from pine
+% Printed 451 matching rows from math				% Printed 451 matching rows from math
+% Printed 404984 rows from joining math to math			% Printed 404984 rows from joining math to math
+% Printed 449 matching rows from math				% Printed 449 matching rows from math
+% Printed 2967 matching rows from use				% Printed 2967 matching rows from use
+% Deleted 948 rows from majority				% Deleted 948 rows from majority
+% Added 340 rows to math from position 900 to 1239		% Added 340 rows to math from position 900 to 1239
+% Printed 290975 rows from joining contractor to silence      |	% Printed 0 rows from joining contractor to silence
+% Added 390 rows to album from position 2427 to 2816	      |	% Added 390 rows to album from position 166 to 555
+% Printed 500 matching rows from majority			% Printed 500 matching rows from majority
+% Printed 773 matching rows from majority			% Printed 773 matching rows from majority
+% Added 381 rows to rifle from position 0 to 380		% Added 381 rows to rifle from position 0 to 380
+% Printed 0 matching rows from majority				% Printed 0 matching rows from majority
+% New table pole with column(s) fortune possible deeply treat	% New table pole with column(s) fortune possible deeply treat
+% Printed 1113 matching rows from radio				% Printed 1113 matching rows from radio
+% Printed 13 matching rows from use				% Printed 13 matching rows from use
+% Printed 1092 matching rows from commander			% Printed 1092 matching rows from commander
+% Deleted 0 rows from commander				      |	% Deleted 560 rows from commander
+% Printed 1 matching rows from rifle				% Printed 1 matching rows from rifle
+% Created bst index for table majority on column projection	% Created bst index for table majority on column projection
+% Printed 6 rows from joining use to majority			% Printed 6 rows from joining use to majority
+% New table doubt with column(s) bus pole disappointment ther	% New table doubt with column(s) bus pole disappointment ther
+% Printed 408 matching rows from use				% Printed 408 matching rows from use
+% Added 324 rows to album from position 2817 to 3140	      |	% Added 324 rows to album from position 556 to 879
+% Printed 1240 matching rows from math				% Printed 1240 matching rows from math
+% Printed 11576 rows from joining majority to use		% Printed 11576 rows from joining majority to use
+% Printed 108 matching rows from majority			% Printed 108 matching rows from majority
+% Printed 0 matching rows from doubt				% Printed 0 matching rows from doubt
+% Printed 381 matching rows from rifle				% Printed 381 matching rows from rifle
+% Printed 0 matching rows from doubt				% Printed 0 matching rows from doubt
+% Printed 308 matching rows from majority			% Printed 308 matching rows from majority
+% Printed 205 matching rows from rifle				% Printed 205 matching rows from rifle
+% Printed 0 matching rows from nowhere				% Printed 0 matching rows from nowhere
+% Printed 1240 matching rows from math				% Printed 1240 matching rows from math
+% New table drift with column(s) minister authority diplomat 	% New table drift with column(s) minister authority diplomat 
+% Added 383 rows to math from position 1240 to 1622		% Added 383 rows to math from position 1240 to 1622
+% Printed 0 matching rows from doubt				% Printed 0 matching rows from doubt
+% Printed 1092 matching rows from commander		      |	% Printed 532 matching rows from commander
+% Printed 0 matching rows from nowhere				% Printed 0 matching rows from nowhere
+% Printed 0 matching rows from nowhere				% Printed 0 matching rows from nowhere
+% Printed 0 matching rows from doubt				% Printed 0 matching rows from doubt
+% New table once with column(s) industrial presentation devel	% New table once with column(s) industrial presentation devel
+% New table explode with column(s) shallow meet discourage br	% New table explode with column(s) shallow meet discourage br
+% Created hash index for table contractor on column material	% Created hash index for table contractor on column material
+% Deleted 500 rows from contractor			      |	% Deleted 0 rows from contractor
+% Printed 1092 matching rows from commander		      |	% Printed 532 matching rows from commander
+% Added 321 rows to use from position 2967 to 3287		% Added 321 rows to use from position 2967 to 3287
+% Deleted 0 rows from once					% Deleted 0 rows from once
+% Printed 3288 matching rows from use				% Printed 3288 matching rows from use
+% Deleted 0 rows from once					% Deleted 0 rows from once
+% Added 324 rows to once from position 0 to 323			% Added 324 rows to once from position 0 to 323
+% Added 328 rows to doubt from position 0 to 327		% Added 328 rows to doubt from position 0 to 327
+% Printed 903742 rows from joining radio to math		% Printed 903742 rows from joining radio to math
+% Printed 0 matching rows from drift				% Printed 0 matching rows from drift
+% Added 372 rows to contractor from position 478 to 849	      |	% Added 372 rows to contractor from position 978 to 1349
+% Created hash index for table album on column jazz		% Created hash index for table album on column jazz
+% Deleted 0 rows from math				      |	% Deleted 796 rows from math
+% Printed 0 matching rows from pole				% Printed 0 matching rows from pole
+% Printed 181 matching rows from contractor		      |	% Printed 681 matching rows from contractor
+% Deleted 1829 rows from use					% Deleted 1829 rows from use
+% Printed 11673 rows from joining math to use		      |	% Printed 5856 rows from joining math to use
+% Added 318 rows to commander from position 1092 to 1409      |	% Added 318 rows to commander from position 532 to 849
+% Printed 0 matching rows from nowhere				% Printed 0 matching rows from nowhere
+% Printed 0 matching rows from contractor		      |	% Printed 669 matching rows from contractor
+% New table foreigner with column(s) strange literary snake r	% New table foreigner with column(s) strange literary snake r
+% Created hash index for table explode on column reward		% Created hash index for table explode on column reward
+% Printed 1009 matching rows from pine				% Printed 1009 matching rows from pine
+% Printed 486 matching rows from pine				% Printed 486 matching rows from pine
+% Printed 0 matching rows from pine				% Printed 0 matching rows from pine
+% Printed 0 matching rows from nowhere				% Printed 0 matching rows from nowhere
+% Added 355 rows to album from position 3141 to 3495	      |	% Added 355 rows to album from position 880 to 1234
+% Printed 0 matching rows from foreigner			% Printed 0 matching rows from foreigner
+% Added 301 rows to majority from position 773 to 1073		% Added 301 rows to majority from position 773 to 1073
+% Printed 583634 rows from joining commander to contractor    |	% Printed 573942 rows from joining commander to contractor
+% Printed 328 matching rows from doubt				% Printed 328 matching rows from doubt
+% Printed 289845 rows from joining pine to silence	      |	% Printed 0 rows from joining pine to silence
+% Printed 94355 rows from joining once to silence	      |	% Printed 0 rows from joining once to silence
+% Added 364 rows to explode from position 0 to 363		% Added 364 rows to explode from position 0 to 363
+% Table doubt deleted						% Table doubt deleted
+% Printed 850 matching rows from contractor		      |	% Printed 1350 matching rows from contractor
+% Added 337 rows to once from position 324 to 660		% Added 337 rows to once from position 324 to 660
+% New table creative with column(s) grandfather new assist si	% New table creative with column(s) grandfather new assist si
+% Created bst index for table majority on column nail		% Created bst index for table majority on column nail
+% Added 304 rows to explode from position 364 to 667		% Added 304 rows to explode from position 364 to 667
+% Added 386 rows to explode from position 668 to 1053		% Added 386 rows to explode from position 668 to 1053
+% Deleted 3 rows from once					% Deleted 3 rows from once
+% Printed 1113 matching rows from radio				% Printed 1113 matching rows from radio
+% Deleted 643 rows from once					% Deleted 643 rows from once
+% Printed 6129 rows from joining contractor to use	      |	% Printed 9751 rows from joining contractor to use
+% Deleted 0 rows from creative					% Deleted 0 rows from creative
+% Deleted 742 rows from explode					% Deleted 742 rows from explode
+% Printed 14 matching rows from majority		      |	% Printed 3 matching rows from majority
+% Printed 466690 rows from joining math to silence	      |	% Printed 0 rows from joining math to silence
+% Printed 5 matching rows from once				% Printed 5 matching rows from once
+% Printed 0 matching rows from nowhere				% Printed 0 matching rows from nowhere
+% Printed 8542 rows from joining radio to use			% Printed 8542 rows from joining radio to use
+% Printed 35 matching rows from rifle				% Printed 35 matching rows from rifle
+% Created bst index for table pine on column physician		% Created bst index for table pine on column physician
+% Added 316 rows to majority from position 1074 to 1389		% Added 316 rows to majority from position 1074 to 1389
+% Printed 0 matching rows from foreigner			% Printed 0 matching rows from foreigner
+% Created bst index for table once on column each		% Created bst index for table once on column each
+% Created hash index for table silence on column meter		% Created hash index for table silence on column meter
+% Printed 15 matching rows from once				% Printed 15 matching rows from once
+% Printed 0 matching rows from drift				% Printed 0 matching rows from drift
+% Printed 796 matching rows from math			      |	% Printed 449 matching rows from math
+% Deleted 549 rows from pine					% Deleted 549 rows from pine
+% Deleted 102 rows from radio					% Deleted 102 rows from radio
+% Created hash index for table pole on column figure		% Created hash index for table pole on column figure
+% Created bst index for table foreigner on column receive	% Created bst index for table foreigner on column receive
+% Deleted 460 rows from pine					% Deleted 460 rows from pine
+% Printed 126 matching rows from rifle				% Printed 126 matching rows from rifle
+% New table vulnerable with column(s) cite telephone lock ass	% New table vulnerable with column(s) cite telephone lock ass
+% Printed 0 rows from joining pole to contractor		% Printed 0 rows from joining pole to contractor
+% Printed 1128295 rows from joining majority to math	      |	% Printed 583035 rows from joining majority to math
+% Printed 0 matching rows from foreigner			% Printed 0 matching rows from foreigner
+% Added 354 rows to nowhere from position 0 to 353		% Added 354 rows to nowhere from position 0 to 353
+% Printed 2727 rows from joining rifle to majority		% Printed 2727 rows from joining rifle to majority
+% Printed 0 matching rows from pole				% Printed 0 matching rows from pole
+% Added 394 rows to once from position 15 to 408		% Added 394 rows to once from position 15 to 408
+% Created hash index for table album on column union		% Created hash index for table album on column union
+% Added 325 rows to drift from position 0 to 324		% Added 325 rows to drift from position 0 to 324
+% Deleted 0 rows from contractor			      |	% Deleted 669 rows from contractor
+% Printed 491 matching rows from radio				% Printed 491 matching rows from radio
+% Printed 0 matching rows from vulnerable			% Printed 0 matching rows from vulnerable
+% Deleted 0 rows from pine					% Deleted 0 rows from pine
+% Created bst index for table majority on column poke		% Created bst index for table majority on column poke
+% Added 330 rows to drift from position 325 to 654		% Added 330 rows to drift from position 325 to 654
+% Added 307 rows to rifle from position 381 to 687		% Added 307 rows to rifle from position 381 to 687
+% Added 357 rows to rifle from position 688 to 1044		% Added 357 rows to rifle from position 688 to 1044
+% New table continued with column(s) ensure verbal hallway se	% New table continued with column(s) ensure verbal hallway se
+% Added 311 rows to continued from position 0 to 310		% Added 311 rows to continued from position 0 to 310
+% Printed 0 rows from joining creative to use			% Printed 0 rows from joining creative to use
+% Printed 0 matching rows from vulnerable			% Printed 0 matching rows from vulnerable
+% Added 384 rows to foreigner from position 0 to 383		% Added 384 rows to foreigner from position 0 to 383
+% Deleted 1160 rows from use					% Deleted 1160 rows from use
+% Deleted 0 rows from use					% Deleted 0 rows from use
+% Added 367 rows to once from position 409 to 775		% Added 367 rows to once from position 409 to 775
+% Added 363 rows to creative from position 0 to 362		% Added 363 rows to creative from position 0 to 362
+% Added 389 rows to explode from position 312 to 700		% Added 389 rows to explode from position 312 to 700
+% Created bst index for table foreigner on column procedure	% Created bst index for table foreigner on column procedure
+% Printed 0 matching rows from vulnerable			% Printed 0 matching rows from vulnerable
+% Printed 0 matching rows from creative				% Printed 0 matching rows from creative
+% Added 308 rows to album from position 3496 to 3803	      |	% Added 308 rows to album from position 1235 to 1542
+% Printed 202 rows from joining math to explode		      |	% Printed 105 rows from joining math to explode
+% Created hash index for table majority on column dense		% Created hash index for table majority on column dense
+% Printed 1548 rows from joining radio to use			% Printed 1548 rows from joining radio to use
+% Table pine deleted						% Table pine deleted
+% Printed 671 matching rows from explode			% Printed 671 matching rows from explode
+% Added 314 rows to nowhere from position 354 to 667		% Added 314 rows to nowhere from position 354 to 667
+% Printed 311 matching rows from continued			% Printed 311 matching rows from continued
+% Deleted 0 rows from continued				      |	% Deleted 149 rows from continued
+% Added 373 rows to radio from position 1011 to 1383		% Added 373 rows to radio from position 1011 to 1383
+% Printed 0 matching rows from vulnerable			% Printed 0 matching rows from vulnerable
+% Printed 84 rows from joining drift to silence		      |	% Printed 0 rows from joining drift to silence
+% Printed 64 matching rows from nowhere				% Printed 64 matching rows from nowhere
+% Added 390 rows to contractor from position 850 to 1239      |	% Added 390 rows to contractor from position 681 to 1070
+% Added 366 rows to silence from position 565 to 930	      |	% Added 366 rows to silence from position 0 to 365
+% Added 359 rows to contractor from position 1240 to 1598     |	% Added 359 rows to contractor from position 1071 to 1429
+% Printed 244267 rows from joining continued to contractor    |	% Printed 116484 rows from joining continued to contractor
+% Printed 384 matching rows from foreigner			% Printed 384 matching rows from foreigner
+% Added 396 rows to explode from position 701 to 1096		% Added 396 rows to explode from position 701 to 1096
+% Printed 133 rows from joining drift to silence	      |	% Printed 49 rows from joining drift to silence
+% Deleted 884 rows from majority				% Deleted 884 rows from majority
+% Printed 0 matching rows from commander			% Printed 0 matching rows from commander
+% Printed 2 rows from joining contractor to foreigner	      |	% Printed 1 rows from joining contractor to foreigner
+% New table furniture with column(s) possible accelerate it a	% New table furniture with column(s) possible accelerate it a
+% Added 319 rows to furniture from position 0 to 318		% Added 319 rows to furniture from position 0 to 318
+% Created bst index for table contractor on column mutual	% Created bst index for table contractor on column mutual
+% Created bst index for table furniture on column sweat		% Created bst index for table furniture on column sweat
+% Added 326 rows to vulnerable from position 0 to 325		% Added 326 rows to vulnerable from position 0 to 325
+% Printed 319 matching rows from furniture			% Printed 319 matching rows from furniture
+% Deleted 699 rows from commander			      |	% Deleted 0 rows from commander
+% New table soul with column(s) western fresh motive quarterb	% New table soul with column(s) western fresh motive quarterb
+% Added 322 rows to vulnerable from position 326 to 647		% Added 322 rows to vulnerable from position 326 to 647
+% Printed 711 matching rows from commander		      |	% Printed 850 matching rows from commander
+% Added 358 rows to contractor from position 1599 to 1956     |	% Added 358 rows to contractor from position 1430 to 1787
+% Added 344 rows to majority from position 506 to 849		% Added 344 rows to majority from position 506 to 849
+% Created bst index for table once on column animal		% Created bst index for table once on column animal
+% Added 368 rows to foreigner from position 384 to 751		% Added 368 rows to foreigner from position 384 to 751
+% Printed 3 matching rows from vulnerable			% Printed 3 matching rows from vulnerable
+% Printed 252 matching rows from vulnerable			% Printed 252 matching rows from vulnerable
+% Created hash index for table majority on column quit		% Created hash index for table majority on column quit
+% Created bst index for table explode on column successful	% Created bst index for table explode on column successful
+% Added 397 rows to creative from position 363 to 759		% Added 397 rows to creative from position 363 to 759
+% Printed 299 matching rows from use				% Printed 299 matching rows from use
+% Printed 258760 rows from joining furniture to math	      |	% Printed 129012 rows from joining furniture to math
+% Added 380 rows to album from position 3804 to 4183	      |	% Added 380 rows to album from position 1543 to 1922
+% Table rifle deleted						% Table rifle deleted
+% Added 349 rows to math from position 1623 to 1971	      |	% Added 349 rows to math from position 827 to 1175
+% Added 342 rows to use from position 299 to 640		% Added 342 rows to use from position 299 to 640
+% Added 345 rows to radio from position 1384 to 1728		% Added 345 rows to radio from position 1384 to 1728
+% Added 372 rows to furniture from position 319 to 690		% Added 372 rows to furniture from position 319 to 690
+% Printed 396 rows from joining majority to contractor	      |	% Printed 353 rows from joining majority to contractor
+% Table use deleted						% Table use deleted
+% Added 304 rows to radio from position 1729 to 2032		% Added 304 rows to radio from position 1729 to 2032
+% Added 356 rows to commander from position 711 to 1066	      |	% Added 356 rows to commander from position 850 to 1205
+% Printed 655 matching rows from drift				% Printed 655 matching rows from drift
+% Created hash index for table explode on column criteria	% Created hash index for table explode on column criteria
+% Printed 638906 rows from joining vulnerable to math	      |	% Printed 372246 rows from joining vulnerable to math
+% Created bst index for table radio on column ride		% Created bst index for table radio on column ride
+% Printed 765396 rows from joining math to once		      |	% Printed 456106 rows from joining math to once
+% Added 375 rows to foreigner from position 752 to 1126		% Added 375 rows to foreigner from position 752 to 1126
+% Printed 536 rows from joining explode to contractor	      |	% Printed 474 rows from joining explode to contractor
+% Added 344 rows to vulnerable from position 648 to 991		% Added 344 rows to vulnerable from position 648 to 991
+% Printed 0 matching rows from creative			      |	% Printed 355 matching rows from creative
+% Printed 0 matching rows from furniture			% Printed 0 matching rows from furniture
+% New table spare with column(s) literary principle shift hee	% New table spare with column(s) literary principle shift hee
+% Created bst index for table commander on column brand		% Created bst index for table commander on column brand
+% Printed 0 rows from joining pole to commander			% Printed 0 rows from joining pole to commander
+% Printed 1623730 rows from joining album to once	      |	% Printed 746475 rows from joining album to once
+% Printed 120447 rows from joining continued to once	      |	% Printed 62830 rows from joining continued to once
+% Printed 413671 rows from joining commander to once	      |	% Printed 467772 rows from joining commander to once
+% Printed 776 matching rows from once				% Printed 776 matching rows from once
+% Printed 978080 rows from joining vulnerable to math	      |	% Printed 570528 rows from joining vulnerable to math
+% Printed 0 rows from joining soul to commander			% Printed 0 rows from joining soul to commander
+% Printed 655 matching rows from drift				% Printed 655 matching rows from drift
+% Printed 0 rows from joining soul to contractor		% Printed 0 rows from joining soul to contractor
+% Added 380 rows to explode from position 1097 to 1476		% Added 380 rows to explode from position 1097 to 1476
+% Added 383 rows to spare from position 0 to 382		% Added 383 rows to spare from position 0 to 382
+% New table thick with column(s) grass confront perspective m	% New table thick with column(s) grass confront perspective m
+% Printed 2061 matching rows from album			      |	% Printed 919 matching rows from album
+% Printed 3659 rows from joining majority to majority		% Printed 3659 rows from joining majority to majority
+% New table tobacco with column(s) toe engineer assembly batt	% New table tobacco with column(s) toe engineer assembly batt
+% Deleted 0 rows from radio					% Deleted 0 rows from radio
+% Created hash index for table explode on column execution	% Created hash index for table explode on column execution
+% Created hash index for table foreigner on column outstandin	% Created hash index for table foreigner on column outstandin
+% Printed 1972 matching rows from math			      |	% Printed 1176 matching rows from math
+% Created bst index for table album on column style		% Created bst index for table album on column style
+% Printed 983 matching rows from foreigner			% Printed 983 matching rows from foreigner
+% New table area with column(s) boyfriend volume representati	% New table area with column(s) boyfriend volume representati
+% Added 394 rows to pole from position 0 to 393			% Added 394 rows to pole from position 0 to 393
+% New table wing with column(s) foreigner tomorrow damn steal	% New table wing with column(s) foreigner tomorrow damn steal
+% Added 315 rows to pole from position 394 to 708		% Added 315 rows to pole from position 394 to 708
+% Printed 0 matching rows from commander			% Printed 0 matching rows from commander
+% Added 304 rows to explode from position 1477 to 1780		% Added 304 rows to explode from position 1477 to 1780
+% Printed 0 matching rows from commander			% Printed 0 matching rows from commander
+% Printed 267904 rows from joining once to furniture		% Printed 267904 rows from joining once to furniture
+% Printed 1127 matching rows from foreigner			% Printed 1127 matching rows from foreigner
+% Created hash index for table wing on column historical	% Created hash index for table wing on column historical
+% Added 349 rows to album from position 4184 to 4532	      |	% Added 349 rows to album from position 1923 to 2271
+% Deleted 0 rows from soul					% Deleted 0 rows from soul
+% Printed 877 matching rows from explode			% Printed 877 matching rows from explode
+% Deleted 0 rows from vulnerable			      |	% Deleted 493 rows from vulnerable
+% Printed 0 matching rows from area				% Printed 0 matching rows from area
+% Printed 101 matching rows from vulnerable		      |	% Printed 56 matching rows from vulnerable
+% Deleted 354 rows from furniture				% Deleted 354 rows from furniture
+% Printed 850 matching rows from majority			% Printed 850 matching rows from majority
+% Printed 0 matching rows from area				% Printed 0 matching rows from area
+% Printed 850 matching rows from majority			% Printed 850 matching rows from majority
+% Printed 1127 matching rows from foreigner			% Printed 1127 matching rows from foreigner
+% Printed 5670 rows from joining vulnerable to foreigner      |	% Printed 2828 rows from joining vulnerable to foreigner
+% Printed 175577 rows from joining commander to furniture     |	% Printed 201189 rows from joining commander to furniture
+% Printed 0 rows from joining soul to commander			% Printed 0 rows from joining soul to commander
+% Printed 397 matching rows from explode			% Printed 397 matching rows from explode
+% Printed 850 matching rows from majority			% Printed 850 matching rows from majority
+% Added 390 rows to nowhere from position 668 to 1057		% Added 390 rows to nowhere from position 668 to 1057
+% Printed 175 rows from joining spare to contractor	      |	% Printed 166 rows from joining spare to contractor
+% Added 322 rows to explode from position 1781 to 2102		% Added 322 rows to explode from position 1781 to 2102
+% Deleted 964 rows from contractor			      |	% Deleted 904 rows from contractor
+% Printed 0 rows from joining thick to wing			% Printed 0 rows from joining thick to wing
+% Added 345 rows to math from position 1972 to 2316	      |	% Added 345 rows to math from position 1176 to 1520
+% Printed 172544 rows from joining vulnerable to furniture    |	% Printed 86946 rows from joining vulnerable to furniture
+% Printed 850 matching rows from majority			% Printed 850 matching rows from majority
+% Created hash index for table album on column absence		% Created hash index for table album on column absence
+% Created bst index for table wing on column steal		% Created bst index for table wing on column steal
+% Deleted 0 rows from thick					% Deleted 0 rows from thick
+% Printed 251478 rows from joining pole to pole			% Printed 251478 rows from joining pole to pole
+% Added 347 rows to pole from position 709 to 1055		% Added 347 rows to pole from position 709 to 1055
+% Created hash index for table radio on column programming	% Created hash index for table radio on column programming
+% Deleted 0 rows from vulnerable				% Deleted 0 rows from vulnerable
+% Printed 0 matching rows from furniture		      |	% Printed 160 matching rows from furniture
+% Printed 8 rows from joining foreigner to explode		% Printed 8 rows from joining foreigner to explode
+% Added 331 rows to radio from position 2033 to 2363		% Added 331 rows to radio from position 2033 to 2363
+% Printed 4 matching rows from majority				% Printed 4 matching rows from majority
+% Printed 2364 matching rows from radio				% Printed 2364 matching rows from radio
+% Added 397 rows to thick from position 0 to 396		% Added 397 rows to thick from position 0 to 396
+% Printed 229 rows from joining silence to commander	      |	% Printed 112 rows from joining silence to commander
+% Printed 0 matching rows from area				% Printed 0 matching rows from area
+% Printed 0 matching rows from wing				% Printed 0 matching rows from wing
+% Printed 1149 matching rows from math			      |	% Printed 449 matching rows from math
+% Printed 1056 matching rows from pole				% Printed 1056 matching rows from pole
+% Deleted 2 rows from spare					% Deleted 2 rows from spare
+% Added 379 rows to area from position 0 to 378			% Added 379 rows to area from position 0 to 378
+% Added 301 rows to foreigner from position 1127 to 1427	% Added 301 rows to foreigner from position 1127 to 1427
+% Printed 6 rows from joining drift to explode			% Printed 6 rows from joining drift to explode
+% Added 400 rows to vulnerable from position 992 to 1391      |	% Added 400 rows to vulnerable from position 499 to 898
+% Deleted 2083 rows from album				      |	% Deleted 1053 rows from album
+% Printed 264 matching rows from majority			% Printed 264 matching rows from majority
+% Printed 11695 rows from joining silence to album	      |	% Printed 2337 rows from joining silence to album
+% Printed 510 matching rows from pole			      |	% Printed 0 matching rows from pole
+% Created bst index for table math on column employer		% Created bst index for table math on column employer
+% Printed 0 matching rows from tobacco				% Printed 0 matching rows from tobacco
+% Added 383 rows to spare from position 381 to 763		% Added 383 rows to spare from position 381 to 763
+% Added 348 rows to area from position 379 to 726		% Added 348 rows to area from position 379 to 726
+% Printed 2 matching rows from creative				% Printed 2 matching rows from creative
+% Printed 233 rows from joining commander to contractor	      |	% Printed 245 rows from joining commander to contractor
+% Deleted 2008 rows from radio					% Deleted 2008 rows from radio
+% Printed 9 rows from joining foreigner to explode		% Printed 9 rows from joining foreigner to explode
+% Added 390 rows to wing from position 0 to 389			% Added 390 rows to wing from position 0 to 389
+% Added 309 rows to drift from position 655 to 963		% Added 309 rows to drift from position 655 to 963
+% Printed 727 matching rows from area				% Printed 727 matching rows from area
+% Printed 2450 matching rows from album			      |	% Printed 1219 matching rows from album
+% Created bst index for table vulnerable on column governor	% Created bst index for table vulnerable on column governor
+% Printed 1 matching rows from silence				% Printed 1 matching rows from silence
+% Printed 198 matching rows from foreigner			% Printed 198 matching rows from foreigner
+% Printed 257 rows from joining contractor to silence	      |	% Printed 103 rows from joining contractor to silence
+% Printed 704 matching rows from vulnerable		      |	% Printed 1 matching rows from vulnerable
+% Deleted 0 rows from creative					% Deleted 0 rows from creative
+% Printed 86 rows from joining wing to commander	      |	% Printed 104 rows from joining wing to commander
+% Printed 170 matching rows from nowhere			% Printed 170 matching rows from nowhere
+% Added 315 rows to pole from position 1056 to 1370		% Added 315 rows to pole from position 1056 to 1370
+% Printed 390 matching rows from wing				% Printed 390 matching rows from wing
+% New table possibility with column(s) army cross moderate ha	% New table possibility with column(s) army cross moderate ha
+% Printed 0 matching rows from radio				% Printed 0 matching rows from radio
+% Printed 569 rows from joining math to commander	      |	% Printed 439 rows from joining math to commander
+% Created bst index for table creative on column potato		% Created bst index for table creative on column potato
+% Deleted 585 rows from area					% Deleted 585 rows from area
+% Printed 0 matching rows from soul				% Printed 0 matching rows from soul
+% Table math deleted						% Table math deleted
+% New table employ with column(s) bike servant portfolio its 	% New table employ with column(s) bike servant portfolio its 
+% Added 393 rows to silence from position 931 to 1323	      |	% Added 393 rows to silence from position 366 to 758
+% New table discipline with column(s) streak flesh relation i	% New table discipline with column(s) streak flesh relation i
+% Printed 1324 matching rows from silence		      |	% Printed 759 matching rows from silence
+% Created bst index for table vulnerable on column capital	% Created bst index for table vulnerable on column capital
+% Added 374 rows to possibility from position 0 to 373		% Added 374 rows to possibility from position 0 to 373
+% Printed 4 matching rows from foreigner			% Printed 4 matching rows from foreigner
+% Created hash index for table tobacco on column battery	% Created hash index for table tobacco on column battery
+% Printed 401 matching rows from once				% Printed 401 matching rows from once
+% Deleted 375 rows from commander			      |	% Deleted 412 rows from commander
+% Deleted 0 rows from furniture					% Deleted 0 rows from furniture
+% Printed 421 matching rows from spare				% Printed 421 matching rows from spare
+% Printed 1 rows from joining commander to radio		% Printed 1 rows from joining commander to radio
+% Printed 1392 matching rows from vulnerable		      |	% Printed 899 matching rows from vulnerable
+% Printed 312 matching rows from nowhere			% Printed 312 matching rows from nowhere
+% Added 307 rows to once from position 776 to 1082		% Added 307 rows to once from position 776 to 1082
+% Added 339 rows to thick from position 397 to 735		% Added 339 rows to thick from position 397 to 735
+% Printed 0 rows from joining employ to once			% Printed 0 rows from joining employ to once
+% Printed 764 matching rows from spare				% Printed 764 matching rows from spare
+% Printed 1058 matching rows from nowhere			% Printed 1058 matching rows from nowhere
+% Printed 0 matching rows from employ				% Printed 0 matching rows from employ
+% Created bst index for table vulnerable on column thoroughly	% Created bst index for table vulnerable on column thoroughly
+% Printed 0 matching rows from pole			      |	% Printed 696 matching rows from pole
+% Added 317 rows to furniture from position 337 to 653		% Added 317 rows to furniture from position 337 to 653
+% Printed 356 matching rows from radio				% Printed 356 matching rows from radio
+% Printed 736 matching rows from thick				% Printed 736 matching rows from thick
+% Printed 324436 rows from joining spare to majority		% Printed 324436 rows from joining spare to majority
+% Table majority deleted					% Table majority deleted
+% Printed 0 rows from joining tobacco to creative		% Printed 0 rows from joining tobacco to creative
+% Added 365 rows to drift from position 964 to 1328		% Added 365 rows to drift from position 964 to 1328
+% Printed 425 matching rows from foreigner			% Printed 425 matching rows from foreigner
+% Created hash index for table area on column favorite		% Created hash index for table area on column favorite
+% Printed 65 rows from joining radio to commander	      |	% Printed 78 rows from joining radio to commander
+% Printed 191 matching rows from wing				% Printed 191 matching rows from wing
+% Deleted 0 rows from creative					% Deleted 0 rows from creative
+% Printed 0 matching rows from tobacco				% Printed 0 matching rows from tobacco
+% Deleted 3 rows from foreigner					% Deleted 3 rows from foreigner
+% Printed 906594 rows from joining silence to pole	      |	% Printed 519654 rows from joining silence to pole
+% Printed 0 matching rows from discipline			% Printed 0 matching rows from discipline
+% Deleted 0 rows from creative					% Deleted 0 rows from creative
+% Printed 0 matching rows from employ				% Printed 0 matching rows from employ
+% New table pay with column(s) state precious giant simply dr	% New table pay with column(s) state precious giant simply dr
+% Added 313 rows to nowhere from position 1058 to 1370		% Added 313 rows to nowhere from position 1058 to 1370
+% Printed 150 matching rows from explode			% Printed 150 matching rows from explode
+% Printed 561 matching rows from creative			% Printed 561 matching rows from creative
+% New table waist with column(s) graduate pattern value gap r	% New table waist with column(s) graduate pattern value gap r
+% Printed 692 matching rows from commander		      |	% Printed 794 matching rows from commander
+% Deleted 0 rows from possibility				% Deleted 0 rows from possibility
+% Created hash index for table continued on column sample	% Created hash index for table continued on column sample
+% Printed 495 matching rows from vulnerable		      |	% Printed 309 matching rows from vulnerable
+% Table possibility deleted					% Table possibility deleted
+% Added 392 rows to spare from position 764 to 1155		% Added 392 rows to spare from position 764 to 1155
+% Printed 358 matching rows from commander		      |	% Printed 427 matching rows from commander
+% Printed 736 matching rows from thick				% Printed 736 matching rows from thick
+% New table drawer with column(s) religious stock metropolita	% New table drawer with column(s) religious stock metropolita
+% Printed 2 rows from joining thick to continued	      |	% Printed 1 rows from joining thick to continued
+% Printed 0 rows from joining furniture to radio		% Printed 0 rows from joining furniture to radio
+% Added 328 rows to thick from position 736 to 1063		% Added 328 rows to thick from position 736 to 1063
+% Added 329 rows to once from position 1083 to 1411		% Added 329 rows to once from position 1083 to 1411
+% Printed 516 matching rows from explode			% Printed 516 matching rows from explode
+% Created hash index for table drawer on column since		% Created hash index for table drawer on column since
+% Added 342 rows to spare from position 1156 to 1497		% Added 342 rows to spare from position 1156 to 1497
+% Deleted 1056 rows from explode				% Deleted 1056 rows from explode
+% Printed 427 rows from joining foreigner to silence	      |	% Printed 248 rows from joining foreigner to silence
+% Printed 0 rows from joining waist to explode			% Printed 0 rows from joining waist to explode
+% Printed 311 matching rows from continued		      |	% Printed 162 matching rows from continued
+% Created hash index for table nowhere on column sponsor	% Created hash index for table nowhere on column sponsor
+% Printed 3 rows from joining explode to nowhere		% Printed 3 rows from joining explode to nowhere
+% Printed 0 matching rows from tobacco				% Printed 0 matching rows from tobacco
+% Printed 0 rows from joining waist to wing			% Printed 0 rows from joining waist to wing
+% Printed 0 rows from joining thick to radio			% Printed 0 rows from joining thick to radio
+% Printed 760 matching rows from creative			% Printed 760 matching rows from creative
+% Printed 0 rows from joining soul to area			% Printed 0 rows from joining soul to area
+% Printed 654 matching rows from furniture			% Printed 654 matching rows from furniture
+% Printed 16 rows from joining album to vulnerable	      |	% Printed 7 rows from joining album to vulnerable
+% Created hash index for table discipline on column increased	% Created hash index for table discipline on column increased
+% Printed 712 matching rows from explode			% Printed 712 matching rows from explode
+% Printed 0 matching rows from soul				% Printed 0 matching rows from soul
+% Printed 654 matching rows from furniture			% Printed 654 matching rows from furniture
+% New table location with column(s) radio recognize shorts co	% New table location with column(s) radio recognize shorts co
+% Added 396 rows to pay from position 0 to 395			% Added 396 rows to pay from position 0 to 395
+% Printed 1498 matching rows from spare				% Printed 1498 matching rows from spare
+% Printed 0 rows from joining employ to area			% Printed 0 rows from joining employ to area
+% Created bst index for table radio on column example		% Created bst index for table radio on column example
+% Printed 1329 matching rows from drift				% Printed 1329 matching rows from drift
+% Created bst index for table furniture on column abroad	% Created bst index for table furniture on column abroad
+% Created bst index for table drift on column emotional		% Created bst index for table drift on column emotional
+% Added 308 rows to pole from position 1371 to 1678		% Added 308 rows to pole from position 1371 to 1678
+% Added 389 rows to area from position 142 to 530		% Added 389 rows to area from position 142 to 530
+% Added 324 rows to drawer from position 0 to 323		% Added 324 rows to drawer from position 0 to 323
+% Printed 0 rows from joining discipline to commander		% Printed 0 rows from joining discipline to commander
+% Added 322 rows to continued from position 311 to 632	      |	% Added 322 rows to continued from position 162 to 483
+% Printed 0 matching rows from wing			      |	% Printed 191 matching rows from wing
+% Printed 450 matching rows from spare				% Printed 450 matching rows from spare
+% Printed 0 rows from joining tobacco to nowhere		% Printed 0 rows from joining tobacco to nowhere
+% Added 385 rows to album from position 2450 to 2834	      |	% Added 385 rows to album from position 1219 to 1603
+% Printed 1392 matching rows from vulnerable		      |	% Printed 899 matching rows from vulnerable
+% Printed 1064 matching rows from thick				% Printed 1064 matching rows from thick
+% Printed 834 matching rows from drift				% Printed 834 matching rows from drift
+% Added 385 rows to location from position 0 to 384		% Added 385 rows to location from position 0 to 384
+% Printed 23 matching rows from album			      |	% Printed 10 matching rows from album
+% Added 378 rows to silence from position 1324 to 1701	      |	% Added 378 rows to silence from position 759 to 1136
+% Printed 205 rows from joining area to silence		      |	% Printed 126 rows from joining area to silence
+% Added 394 rows to drift from position 1329 to 1722		% Added 394 rows to drift from position 1329 to 1722
+% Printed 0 matching rows from waist				% Printed 0 matching rows from waist
+% Added 341 rows to silence from position 1702 to 2042	      |	% Added 341 rows to silence from position 1137 to 1477
+% Printed 3 rows from joining silence to continued	      |	% Printed 0 rows from joining silence to continued
+% Printed 678 matching rows from once			      |	% Printed 375 matching rows from once
+% Printed 396 matching rows from pay				% Printed 396 matching rows from pay
+% Printed 39110 rows from joining album to album	      |	% Printed 12516 rows from joining album to album
+% Printed 1412 matching rows from once				% Printed 1412 matching rows from once
+% Printed 2810 matching rows from album			      |	% Printed 1589 matching rows from album
+% Printed 299 matching rows from commander		      |	% Printed 653 matching rows from commander
+% Added 342 rows to silence from position 2043 to 2384	      |	% Added 342 rows to silence from position 1478 to 1819
+% Added 318 rows to foreigner from position 1425 to 1742	% Added 318 rows to foreigner from position 1425 to 1742
+% Printed 0 matching rows from thick			      |	% Printed 513 matching rows from thick
+% Printed 396 matching rows from pay				% Printed 396 matching rows from pay
+% Added 356 rows to tobacco from position 0 to 355		% Added 356 rows to tobacco from position 0 to 355
+% Printed 0 rows from joining discipline to discipline		% Printed 0 rows from joining discipline to discipline
+% Printed 2688 matching rows from album			      |	% Printed 1457 matching rows from album
+% Added 370 rows to commander from position 692 to 1061	      |	% Added 370 rows to commander from position 794 to 1163
+% Printed 52 rows from joining drawer to creative		% Printed 52 rows from joining drawer to creative
+% Deleted 2253 rows from silence			      |	% Deleted 1722 rows from silence
+% Printed 719 matching rows from creative		      |	% Printed 667 matching rows from creative
+% Printed 0 rows from joining soul to foreigner			% Printed 0 rows from joining soul to foreigner
+% Printed 422 matching rows from continued		      |	% Printed 314 matching rows from continued
+% Printed 363 matching rows from thick				% Printed 363 matching rows from thick
+% Printed 0 rows from joining soul to album			% Printed 0 rows from joining soul to album
+% Printed 1498 matching rows from spare				% Printed 1498 matching rows from spare
+% Added 325 rows to discipline from position 0 to 324		% Added 325 rows to discipline from position 0 to 324
+% Printed 0 rows from joining silence to continued		% Printed 0 rows from joining silence to continued
+% Created hash index for table explode on column technician	% Created hash index for table explode on column technician
+% Printed 16 rows from joining silence to creative	      |	% Printed 10 rows from joining silence to creative
+% Printed 0 matching rows from soul				% Printed 0 matching rows from soul
+% Deleted 0 rows from continued					% Deleted 0 rows from continued
+% Added 400 rows to silence from position 132 to 531	      |	% Added 400 rows to silence from position 98 to 497
+% Printed 2818 rows from joining drift to discipline		% Printed 2818 rows from joining drift to discipline
+% Added 367 rows to foreigner from position 1743 to 2109	% Added 367 rows to foreigner from position 1743 to 2109
+% Printed 478 matching rows from furniture			% Printed 478 matching rows from furniture
+% Printed 0 matching rows from radio				% Printed 0 matching rows from radio
+% Created bst index for table spare on column productive	% Created bst index for table spare on column productive
+% Printed 325 matching rows from discipline			% Printed 325 matching rows from discipline
+% Added 364 rows to tobacco from position 356 to 719		% Added 364 rows to tobacco from position 356 to 719
+% Printed 324 matching rows from drawer				% Printed 324 matching rows from drawer
+% Printed 0 rows from joining employ to continued		% Printed 0 rows from joining employ to continued
+% Printed 199 matching rows from wing			      |	% Printed 0 matching rows from wing
+% Printed 385 matching rows from location			% Printed 385 matching rows from location
+% Printed 2 rows from joining drift to furniture		% Printed 2 rows from joining drift to furniture
+% Printed 2 rows from joining pole to furniture			% Printed 2 rows from joining pole to furniture
+% Deleted 199 rows from wing				      |	% Deleted 0 rows from wing
+% Created hash index for table vulnerable on column tribal	% Created hash index for table vulnerable on column tribal
+% Table silence deleted						% Table silence deleted
+% Created bst index for table album on column contrast		% Created bst index for table album on column contrast
+% Added 355 rows to wing from position 191 to 545	      |	% Added 355 rows to wing from position 390 to 744
+% Printed 267 rows from joining pay to album		      |	% Printed 157 rows from joining pay to album
+% Printed 1412 matching rows from once				% Printed 1412 matching rows from once
+% Deleted 0 rows from drawer					% Deleted 0 rows from drawer
+% New table neighbor with column(s) delay volunteer participa	% New table neighbor with column(s) delay volunteer participa
+% Printed 0 matching rows from pay			      |	% Printed 195 matching rows from pay
+% Deleted 91 rows from tobacco					% Deleted 91 rows from tobacco
+% Created bst index for table spare on column off		% Created bst index for table spare on column off
+% Printed 117072 rows from joining furniture to radio		% Printed 117072 rows from joining furniture to radio
+% Printed 170339 rows from joining discipline to explode	% Printed 170339 rows from joining discipline to explode
+% Printed 199 rows from joining commander to creative	      |	% Printed 208 rows from joining commander to creative
+% Deleted 395 rows from drift					% Deleted 395 rows from drift
+% Added 376 rows to furniture from position 654 to 1029		% Added 376 rows to furniture from position 654 to 1029
+% Created hash index for table soul on column tv		% Created hash index for table soul on column tv
+% Added 303 rows to thick from position 1064 to 1366		% Added 303 rows to thick from position 1064 to 1366
+% Deleted 239 rows from creative				% Deleted 239 rows from creative
+% Printed 0 rows from joining employ to once			% Printed 0 rows from joining employ to once
+% Added 374 rows to soul from position 0 to 373			% Added 374 rows to soul from position 0 to 373
+% Printed 363110 rows from joining thick to area		% Printed 363110 rows from joining thick to area
+% Printed 1 rows from joining drawer to nowhere			% Printed 1 rows from joining drawer to nowhere
+% Printed 172424 rows from joining tobacco to wing	      |	% Printed 234313 rows from joining tobacco to wing
+% Printed 1498 matching rows from spare				% Printed 1498 matching rows from spare
+% Added 324 rows to spare from position 1498 to 1821		% Added 324 rows to spare from position 1498 to 1821
+% Printed 726 rows from joining explode to album	      |	% Printed 390 rows from joining explode to album
+% Added 320 rows to employ from position 0 to 319		% Added 320 rows to employ from position 0 to 319
+% Printed 172 matching rows from wing			      |	% Printed 371 matching rows from wing
+% Added 357 rows to drift from position 1328 to 1684		% Added 357 rows to drift from position 1328 to 1684
+% Deleted 365 rows from pay					% Deleted 365 rows from pay
+% New table analyze with column(s) third viewer enjoy union s	% New table analyze with column(s) third viewer enjoy union s
+% Printed 1148160 rows from joining thick to pole		% Printed 1148160 rows from joining thick to pole
+% Added 396 rows to explode from position 1047 to 1442		% Added 396 rows to explode from position 1047 to 1442
+% Table radio deleted						% Table radio deleted
+% Printed 1958 rows from joining commander to soul	      |	% Printed 2178 rows from joining commander to soul
+% New table essential with column(s) pole edition evident isl	% New table essential with column(s) pole edition evident isl
+% Printed 167 matching rows from discipline			% Printed 167 matching rows from discipline
+% Added 316 rows to album from position 2835 to 3150	      |	% Added 316 rows to album from position 1604 to 1919
+% Printed 1412 matching rows from once				% Printed 1412 matching rows from once
+% Created bst index for table location on column miss		% Created bst index for table location on column miss
+% Added 315 rows to thick from position 1367 to 1681		% Added 315 rows to thick from position 1367 to 1681
+% Printed 226 matching rows from continued		      |	% Printed 181 matching rows from continued
+% Printed 1346 matching rows from foreigner			% Printed 1346 matching rows from foreigner
+% Printed 446590 rows from joining continued to once	      |	% Printed 341816 rows from joining continued to once
+% Added 317 rows to essential from position 0 to 316		% Added 317 rows to essential from position 0 to 316
+% Deleted 374 rows from wing					% Deleted 374 rows from wing
+% Deleted 0 rows from once				      |	% Deleted 734 rows from once
+% New table expertise with column(s) comprehensive nothing po	% New table expertise with column(s) comprehensive nothing po
+% Created hash index for table discipline on column rid		% Created hash index for table discipline on column rid
+% Deleted 775 rows from vulnerable			      |	% Deleted 506 rows from vulnerable
+% Printed 619 matching rows from tobacco			% Printed 619 matching rows from tobacco
+% Printed 238 rows from joining drawer to album		      |	% Printed 150 rows from joining drawer to album
+% Added 373 rows to analyze from position 0 to 372		% Added 373 rows to analyze from position 0 to 372
+% Added 380 rows to essential from position 317 to 696		% Added 380 rows to essential from position 317 to 696
+% Table tobacco deleted						% Table tobacco deleted
+% Printed 0 matching rows from expertise			% Printed 0 matching rows from expertise
+% Printed 851 matching rows from pole			      |	% Printed 0 matching rows from pole
+% Added 322 rows to analyze from position 373 to 694		% Added 322 rows to analyze from position 373 to 694
+% Added 316 rows to analyze from position 695 to 1010		% Added 316 rows to analyze from position 695 to 1010
+% Printed 45652 rows from joining wing to area		      |	% Printed 98385 rows from joining wing to area
+% Printed 437000 rows from joining creative to pole		% Printed 437000 rows from joining creative to pole
+% Deleted 0 rows from furniture					% Deleted 0 rows from furniture
+% Added 395 rows to drawer from position 324 to 718		% Added 395 rows to drawer from position 324 to 718
+% Added 334 rows to discipline from position 325 to 658		% Added 334 rows to discipline from position 325 to 658
+% Created hash index for table commander on column radiation	% Created hash index for table commander on column radiation
+% Printed 0 matching rows from waist				% Printed 0 matching rows from waist
+% Created bst index for table drawer on column architect	% Created bst index for table drawer on column architect
+% New table current with column(s) graduate music cheese ring	% New table current with column(s) graduate music cheese ring
+% Deleted 508 rows from commander			      |	% Deleted 0 rows from commander
+% Added 346 rows to current from position 0 to 345		% Added 346 rows to current from position 0 to 345
+% Printed 0 matching rows from waist				% Printed 0 matching rows from waist
+% Added 324 rows to drift from position 1685 to 2008		% Added 324 rows to drift from position 1685 to 2008
+% Added 350 rows to contractor from position 993 to 1342      |	% Added 350 rows to contractor from position 884 to 1233
+% Printed 531 matching rows from area				% Printed 531 matching rows from area
+% Deleted 0 rows from expertise					% Deleted 0 rows from expertise
+% Added 301 rows to pay from position 31 to 331			% Added 301 rows to pay from position 31 to 331
+% New table pretend with column(s) latter laboratory wing bro	% New table pretend with column(s) latter laboratory wing bro
+% Added 381 rows to thick from position 1682 to 2062		% Added 381 rows to thick from position 1682 to 2062
+% Added 371 rows to furniture from position 1030 to 1400	% Added 371 rows to furniture from position 1030 to 1400
+% Printed 385 matching rows from location			% Printed 385 matching rows from location
+% Added 371 rows to drawer from position 719 to 1089		% Added 371 rows to drawer from position 719 to 1089
+% Added 368 rows to contractor from position 1343 to 1710     |	% Added 368 rows to contractor from position 1234 to 1601
+% Added 336 rows to analyze from position 1011 to 1346		% Added 336 rows to analyze from position 1011 to 1346
+% Printed 0 matching rows from waist				% Printed 0 matching rows from waist
+% Deleted 0 rows from pretend					% Deleted 0 rows from pretend
+% Added 349 rows to thick from position 2063 to 2411		% Added 349 rows to thick from position 2063 to 2411
+% Added 333 rows to thick from position 2412 to 2744		% Added 333 rows to thick from position 2412 to 2744
+% Printed 1110 rows from joining vulnerable to soul	      |	% Printed 721 rows from joining vulnerable to soul
+% Printed 0 matching rows from neighbor				% Printed 0 matching rows from neighbor
+% Printed 1679 matching rows from pole				% Printed 1679 matching rows from pole
+% Printed 1681 matching rows from contractor		      |	% Printed 1406 matching rows from contractor
+% Printed 0 matching rows from wing				% Printed 0 matching rows from wing
+% Printed 871996 rows from joining album to commander	      |	% Printed 1116360 rows from joining album to commander
+% New table interval with column(s) plot unhappy rub columnis	% New table interval with column(s) plot unhappy rub columnis
+% Printed 735 rows from joining spare to contractor	      |	% Printed 686 rows from joining spare to contractor
+% Printed 0 matching rows from neighbor				% Printed 0 matching rows from neighbor
+% Added 396 rows to expertise from position 0 to 395		% Added 396 rows to expertise from position 0 to 395
+% Created bst index for table pay on column dust		% Created bst index for table pay on column dust
+% Printed 396 matching rows from expertise			% Printed 396 matching rows from expertise
+% Added 360 rows to soul from position 374 to 733		% Added 360 rows to soul from position 374 to 733
+% New table typical with column(s) reliability enroll into de	% New table typical with column(s) reliability enroll into de
+% Deleted 0 rows from explode				      |	% Deleted 740 rows from explode
+% Deleted 1331 rows from thick					% Deleted 1331 rows from thick
+% Printed 284 matching rows from pay				% Printed 284 matching rows from pay
+% New table thrive with column(s) no jewelry toy combined con	% New table thrive with column(s) no jewelry toy combined con
+% Deleted 554 rows from commander			      |	% Deleted 0 rows from commander
+% Added 380 rows to expertise from position 396 to 775		% Added 380 rows to expertise from position 396 to 775
+% Printed 0 matching rows from continued			% Printed 0 matching rows from continued
+% Printed 0 matching rows from typical				% Printed 0 matching rows from typical
+% Printed 0 matching rows from area			      |	% Printed 262 matching rows from area
+% Printed 1443 matching rows from explode		      |	% Printed 703 matching rows from explode
+% Printed 0 rows from joining typical to drift			% Printed 0 rows from joining typical to drift
+% Printed 6 rows from joining nowhere to furniture		% Printed 6 rows from joining nowhere to furniture
+% Printed 346 matching rows from current			% Printed 346 matching rows from current
+% Printed 0 rows from joining waist to furniture		% Printed 0 rows from joining waist to furniture
+% Printed 7801 rows from joining thick to drawer		% Printed 7801 rows from joining thick to drawer
+% Added 321 rows to typical from position 0 to 320		% Added 321 rows to typical from position 0 to 320
+% Added 367 rows to interval from position 0 to 366		% Added 367 rows to interval from position 0 to 366
+% Added 358 rows to foreigner from position 2110 to 2467	% Added 358 rows to foreigner from position 2110 to 2467
+% Added 305 rows to contractor from position 1711 to 2015     |	% Added 305 rows to contractor from position 1602 to 1906
+% Printed 172 matching rows from wing			      |	% Printed 371 matching rows from wing
+% Printed 1412 matching rows from once			      |	% Printed 678 matching rows from once
+% Printed 165 matching rows from pay				% Printed 165 matching rows from pay
+% Added 302 rows to expertise from position 776 to 1077		% Added 302 rows to expertise from position 776 to 1077
+% Printed 1371 matching rows from nowhere			% Printed 1371 matching rows from nowhere
+% Printed 0 rows from joining neighbor to contractor		% Printed 0 rows from joining neighbor to contractor
+% Created hash index for table thick on column diamond		% Created hash index for table thick on column diamond
+% Created hash index for table continued on column bat		% Created hash index for table continued on column bat
+% Printed 0 matching rows from neighbor				% Printed 0 matching rows from neighbor
+% Created hash index for table furniture on column preference	% Created hash index for table furniture on column preference
+% Added 369 rows to location from position 385 to 753		% Added 369 rows to location from position 385 to 753
+% Printed 0 matching rows from thrive				% Printed 0 matching rows from thrive
+% Created bst index for table expertise on column interested	% Created bst index for table expertise on column interested
+% Printed 536 matching rows from expertise			% Printed 536 matching rows from expertise
+% Printed 17445 rows from joining foreigner to thick		% Printed 17445 rows from joining foreigner to thick
+% Printed 0 matching rows from waist				% Printed 0 matching rows from waist
+% Printed 2468 matching rows from foreigner			% Printed 2468 matching rows from foreigner
+% Added 356 rows to area from position 531 to 886		% Added 356 rows to area from position 531 to 886
+% Deleted 0 rows from pole				      |	% Deleted 828 rows from pole
+% Created hash index for table thick on column clear		% Created hash index for table thick on column clear
+% Printed 0 rows from joining thick to commander	      |	% Printed 821814 rows from joining thick to commander
+% Printed 172 matching rows from wing			      |	% Printed 0 matching rows from wing
+% Printed 1735 matching rows from contractor		      |	% Printed 1066 matching rows from contractor
+% Printed 0 rows from joining waist to expertise		% Printed 0 rows from joining waist to expertise
+% Deleted 0 rows from employ					% Deleted 0 rows from employ
+% Table thick deleted						% Table thick deleted
+% Printed 0 matching rows from pay				% Printed 0 matching rows from pay
+% Added 356 rows to expertise from position 1078 to 1433	% Added 356 rows to expertise from position 1078 to 1433
+% Deleted 703 rows from explode				      |	% Deleted 0 rows from explode
+% Printed 2016 matching rows from contractor		      |	% Printed 1907 matching rows from contractor
+% Printed 0 rows from joining pretend to vulnerable		% Printed 0 rows from joining pretend to vulnerable
+% Added 314 rows to location from position 754 to 1067		% Added 314 rows to location from position 754 to 1067
+% Added 311 rows to contractor from position 2016 to 2326     |	% Added 311 rows to contractor from position 1907 to 2217
+% Deleted 222 rows from vulnerable			      |	% Deleted 140 rows from vulnerable
+% Printed 321 matching rows from typical			% Printed 321 matching rows from typical
+% Printed 1671396 rows from joining contractor to expertise   |	% Printed 1592916 rows from joining contractor to expertise
+% New table literature with column(s) payment flour test temp	% New table literature with column(s) payment flour test temp
+% Printed 1223220 rows from joining contractor to explode     |	% Printed 473822 rows from joining contractor to explode
+% Printed 1679 matching rows from pole			      |	% Printed 851 matching rows from pole
+% Added 384 rows to nowhere from position 1371 to 1754		% Added 384 rows to nowhere from position 1371 to 1754
+% Printed 11 rows from joining contractor to nowhere	      |	% Printed 9 rows from joining contractor to nowhere
+% Added 339 rows to continued from position 633 to 971	      |	% Added 339 rows to continued from position 484 to 822
+% Created hash index for table pretend on column ours		% Created hash index for table pretend on column ours
+% Created hash index for table commander on column shine	% Created hash index for table commander on column shine
+% Printed 192 matching rows from discipline			% Printed 192 matching rows from discipline
+% Deleted 496 rows from continued			      |	% Deleted 0 rows from continued
+% Created bst index for table wing on column scream		% Created bst index for table wing on column scream
+% New table olympic with column(s) fault graduate vertical co	% New table olympic with column(s) fault graduate vertical co
+% Printed 0 rows from joining neighbor to drift			% Printed 0 rows from joining neighbor to drift
+% Printed 1454 rows from joining drift to album		      |	% Printed 881 rows from joining drift to album
+% Added 341 rows to olympic from position 0 to 340		% Added 341 rows to olympic from position 0 to 340
+% Added 307 rows to soul from position 734 to 1040		% Added 307 rows to soul from position 734 to 1040
+% Printed 332 matching rows from pay				% Printed 332 matching rows from pay
+% Added 321 rows to foreigner from position 2468 to 2788	% Added 321 rows to foreigner from position 2468 to 2788
+% Table analyze deleted						% Table analyze deleted
+% Printed 9642 rows from joining furniture to furniture		% Printed 9642 rows from joining furniture to furniture
+% Deleted 714 rows from expertise			      |	% Deleted 0 rows from expertise
+% Printed 720 matching rows from expertise		      |	% Printed 1434 matching rows from expertise
+% Printed 0 rows from joining pretend to pole			% Printed 0 rows from joining pretend to pole
+% New table prior with column(s) artist university decline ha	% New table prior with column(s) artist university decline ha
+% Added 376 rows to continued from position 476 to 851	      |	% Added 376 rows to continued from position 823 to 1198
+% Created bst index for table waist on column array		% Created bst index for table waist on column array
+% Printed 0 rows from joining vulnerable to commander	      |	% Printed 1513 rows from joining vulnerable to commander
+% Printed 0 matching rows from neighbor				% Printed 0 matching rows from neighbor
+% Created hash index for table contractor on column working	% Created hash index for table contractor on column working
+% Printed 0 rows from joining neighbor to contractor		% Printed 0 rows from joining neighbor to contractor
+% Printed 0 matching rows from neighbor				% Printed 0 matching rows from neighbor
+% Printed 740 matching rows from explode		      |	% Printed 0 matching rows from explode
+% Printed 69 rows from joining expertise to vulnerable	      |	% Printed 73 rows from joining expertise to vulnerable
+% Printed 0 matching rows from literature			% Printed 0 matching rows from literature
+% Added 361 rows to continued from position 852 to 1212	      |	% Added 361 rows to continued from position 1199 to 1559
+% Deleted 79 rows from essential				% Deleted 79 rows from essential
+% Printed 367 matching rows from interval			% Printed 367 matching rows from interval
+% Table literature deleted					% Table literature deleted
+% Printed 0 matching rows from employ				% Printed 0 matching rows from employ
+% Printed 0 rows from joining interval to wing		      |	% Printed 1 rows from joining interval to wing
+% Printed 275 rows from joining foreigner to vulnerable	      |	% Printed 173 rows from joining foreigner to vulnerable
+% Added 305 rows to foreigner from position 2789 to 3093	% Added 305 rows to foreigner from position 2789 to 3093
+% Printed 332 matching rows from pay				% Printed 332 matching rows from pay
+% Created bst index for table essential on column barrel	% Created bst index for table essential on column barrel
+% Added 382 rows to drift from position 2009 to 2390		% Added 382 rows to drift from position 2009 to 2390
+% Added 351 rows to employ from position 320 to 670		% Added 351 rows to employ from position 320 to 670
+% Printed 2249 matching rows from album			      |	% Printed 958 matching rows from album
+% Printed 7 rows from joining furniture to contractor	      |	% Printed 8 rows from joining furniture to contractor
+% Printed 720 matching rows from expertise		      |	% Printed 1434 matching rows from expertise
+% Printed 235232 rows from joining pay to once		      |	% Printed 102378 rows from joining pay to once
+% Printed 11056 rows from joining expertise to foreigner      |	% Printed 22128 rows from joining expertise to foreigner
+% Printed 473 matching rows from essential			% Printed 473 matching rows from essential
+% Printed 0 rows from joining wing to waist			% Printed 0 rows from joining wing to waist
+% Created bst index for table drawer on column mate		% Created bst index for table drawer on column mate
+% Printed 0 rows from joining pretend to creative		% Printed 0 rows from joining pretend to creative
+% Printed 0 matching rows from waist				% Printed 0 matching rows from waist
+% Printed 1213 matching rows from continued		      |	% Printed 1560 matching rows from continued
+% Added 315 rows to nowhere from position 1755 to 2069		% Added 315 rows to nowhere from position 1755 to 2069
+% Added 360 rows to creative from position 521 to 880		% Added 360 rows to creative from position 521 to 880
+% Printed 61 matching rows from typical				% Printed 61 matching rows from typical
+% Added 396 rows to continued from position 1213 to 1608      |	% Added 396 rows to continued from position 1560 to 1955
+% Deleted 583 rows from essential				% Deleted 583 rows from essential
+% New table behavioral with column(s) hit necessary peaceful 	% New table behavioral with column(s) hit necessary peaceful 
+% Printed 1679 matching rows from pole			      |	% Printed 851 matching rows from pole
+% Printed 464890 rows from joining discipline to once	      |	% Printed 227808 rows from joining discipline to once
+% Printed 0 rows from joining continued to wing		      |	% Printed 3 rows from joining continued to wing
+% Printed 0 rows from joining expertise to commander	      |	% Printed 8465 rows from joining expertise to commander
+% Deleted 857 rows from creative				% Deleted 857 rows from creative
+% Printed 1679 matching rows from pole			      |	% Printed 851 matching rows from pole
+% Printed 734 matching rows from once			      |	% Printed 401 matching rows from once
+% Printed 2327 matching rows from contractor		      |	% Printed 2218 matching rows from contractor
+% Deleted 0 rows from typical				      |	% Deleted 168 rows from typical
+% Printed 1133280 rows from joining album to expertise	      |	% Printed 1376520 rows from joining album to expertise
+% Added 321 rows to prior from position 0 to 320		% Added 321 rows to prior from position 0 to 320
+% Printed 428 matching rows from area			      |	% Printed 0 matching rows from area
+% Printed 172 matching rows from wing			      |	% Printed 371 matching rows from wing
+% Added 301 rows to furniture from position 1401 to 1701	% Added 301 rows to furniture from position 1401 to 1701
+% Printed 0 rows from joining discipline to pay			% Printed 0 rows from joining discipline to pay
+% Printed 1703 matching rows from spare			      |	% Printed 188 matching rows from spare
+% Printed 3 rows from joining soul to discipline		% Printed 3 rows from joining soul to discipline
+% Printed 172 matching rows from wing			      |	% Printed 371 matching rows from wing
+% Printed 24 matching rows from creative			% Printed 24 matching rows from creative
+% Added 346 rows to wing from position 172 to 517	      |	% Added 346 rows to wing from position 371 to 716
+% Printed 0 matching rows from behavioral			% Printed 0 matching rows from behavioral
+% Printed 0 matching rows from waist				% Printed 0 matching rows from waist
+% Added 382 rows to essential from position 35 to 416		% Added 382 rows to essential from position 35 to 416
+% Created bst index for table commander on column obviously	% Created bst index for table commander on column obviously
+% Deleted 1335 rows from furniture				% Deleted 1335 rows from furniture
+% Printed 6 rows from joining explode to contractor	      |	% Printed 1 rows from joining explode to contractor
+% Printed 4 rows from joining employ to nowhere			% Printed 4 rows from joining employ to nowhere
+% Deleted 255 rows from employ					% Deleted 255 rows from employ
+% Printed 0 rows from joining wing to wing		      |	% Printed 1 rows from joining wing to wing
+% New table sue with column(s) sweep sweat lift created		% New table sue with column(s) sweep sweat lift created
+% Printed 0 rows from joining waist to album			% Printed 0 rows from joining waist to album
+% New table hunting with column(s) direct landing promotion a	% New table hunting with column(s) direct landing promotion a
+% Deleted 258 rows from typical				      |	% Deleted 121 rows from typical
+% Printed 0 matching rows from neighbor				% Printed 0 matching rows from neighbor
+% Added 302 rows to expertise from position 720 to 1021	      |	% Added 302 rows to expertise from position 1434 to 1735
+% Added 390 rows to olympic from position 341 to 730		% Added 390 rows to olympic from position 341 to 730
+% Printed 0 rows from joining neighbor to discipline		% Printed 0 rows from joining neighbor to discipline
+% Created hash index for table waist on column appeal		% Created hash index for table waist on column appeal
+% Printed 2327 matching rows from contractor		      |	% Printed 2218 matching rows from contractor
+% Printed 416 matching rows from employ				% Printed 416 matching rows from employ
+% Table hunting deleted						% Table hunting deleted
+% New table god with column(s) nearly alternative ski agenda 	% New table god with column(s) nearly alternative ski agenda 
+% Added 385 rows to area from position 887 to 1271		% Added 385 rows to area from position 887 to 1271
+% Table wing deleted						% Table wing deleted
+% Created bst index for table prior on column crucial		% Created bst index for table prior on column crucial
+% Added 311 rows to discipline from position 659 to 969		% Added 311 rows to discipline from position 659 to 969
+% Added 349 rows to soul from position 1041 to 1389		% Added 349 rows to soul from position 1041 to 1389
+% Added 380 rows to drawer from position 1090 to 1469		% Added 380 rows to drawer from position 1090 to 1469
+% Created bst index for table olympic on column close		% Created bst index for table olympic on column close
+% New table businessman with column(s) restore advocate spiri	% New table businessman with column(s) restore advocate spiri
+% Printed 1135478 rows from joining continued to once	      |	% Printed 669864 rows from joining continued to once
+% Created hash index for table pay on column adoption		% Created hash index for table pay on column adoption
+% Printed 0 matching rows from prior				% Printed 0 matching rows from prior
+% Added 395 rows to behavioral from position 0 to 394		% Added 395 rows to behavioral from position 0 to 394
+% Printed 0 rows from joining spare to pretend			% Printed 0 rows from joining spare to pretend
+% Printed 204058 rows from joining prior to area		% Printed 204058 rows from joining prior to area
+% Printed 0 matching rows from pretend				% Printed 0 matching rows from pretend
+% Printed 1909804 rows from joining drift to continued	      |	% Printed 2339374 rows from joining drift to continued
+% Deleted 0 rows from furniture					% Deleted 0 rows from furniture
+% Printed 731 matching rows from olympic			% Printed 731 matching rows from olympic
+% Added 300 rows to typical from position 63 to 362	      |	% Added 300 rows to typical from position 32 to 331
+% Created bst index for table olympic on column therefore	% Created bst index for table olympic on column therefore
+% Printed 1390 matching rows from soul				% Printed 1390 matching rows from soul
+% Printed 1992 matching rows from contractor		      |	% Printed 1902 matching rows from contractor
+% Created bst index for table creative on column controversy	% Created bst index for table creative on column controversy
+% Printed 883704 rows from joining soul to area			% Printed 883704 rows from joining soul to area
+% Added 345 rows to drawer from position 1470 to 1814		% Added 345 rows to drawer from position 1470 to 1814
+% Printed 0 matching rows from sue				% Printed 0 matching rows from sue
+% Printed 3 rows from joining pole to olympic		      |	% Printed 0 rows from joining pole to olympic
+% Printed 0 rows from joining once to waist			% Printed 0 rows from joining once to waist
+% Printed 7 rows from joining discipline to nowhere		% Printed 7 rows from joining discipline to nowhere
+% Printed 740 matching rows from explode		      |	% Printed 0 matching rows from explode
+% Added 393 rows to expertise from position 1022 to 1414      |	% Added 393 rows to expertise from position 1736 to 2128
+% Printed 233034 rows from joining interval to area		% Printed 233034 rows from joining interval to area
+% Deleted 0 rows from once					% Deleted 0 rows from once
+% Added 382 rows to discipline from position 970 to 1351	% Added 382 rows to discipline from position 970 to 1351
+% Printed 0 matching rows from creative				% Printed 0 matching rows from creative
+% Table explode deleted						% Table explode deleted
+% Printed 20217 rows from joining creative to pole	      |	% Printed 12765 rows from joining creative to pole
+% Printed 0 matching rows from vulnerable			% Printed 0 matching rows from vulnerable
+% Printed 395 matching rows from behavioral			% Printed 395 matching rows from behavioral
+% Printed 395 matching rows from behavioral			% Printed 395 matching rows from behavioral
+% Printed 2391 matching rows from drift				% Printed 2391 matching rows from drift
+% Printed 0 rows from joining sue to album			% Printed 0 rows from joining sue to album
+% Printed 417 matching rows from essential			% Printed 417 matching rows from essential
+% Printed 1415 matching rows from expertise		      |	% Printed 2129 matching rows from expertise
+% New table historic with column(s) legitimate argument billi	% New table historic with column(s) legitimate argument billi
+% Printed 0 matching rows from waist				% Printed 0 matching rows from waist
+% Added 388 rows to drift from position 2391 to 2778		% Added 388 rows to drift from position 2391 to 2778
+% Printed 346 matching rows from current			% Printed 346 matching rows from current
+% Table neighbor deleted					% Table neighbor deleted
+% Printed 3094 matching rows from foreigner			% Printed 3094 matching rows from foreigner
+% Deleted 1455 rows from foreigner				% Deleted 1455 rows from foreigner
+% Created hash index for table prior on column together		% Created hash index for table prior on column together
+% Printed 828 matching rows from pole			      |	% Printed 0 matching rows from pole
+% Printed 461898 rows from joining drift to pay			% Printed 461898 rows from joining drift to pay
+% Added 320 rows to commander from position 0 to 319	      |	% Added 320 rows to commander from position 1164 to 1483
+% Added 381 rows to waist from position 0 to 380		% Added 381 rows to waist from position 0 to 380
+% Added 373 rows to businessman from position 0 to 372		% Added 373 rows to businessman from position 0 to 372
+% Created hash index for table furniture on column afterward	% Created hash index for table furniture on column afterward
+% Deleted 0 rows from essential					% Deleted 0 rows from essential
+% Table drift deleted						% Table drift deleted
+% New table inform with column(s) impose itself quick vacatio	% New table inform with column(s) impose itself quick vacatio
+% Printed 15465 rows from joining pole to spare		      |	% Printed 7848 rows from joining pole to spare
+% Printed 3151 matching rows from album			      |	% Printed 1920 matching rows from album
+% Deleted 903 rows from nowhere					% Deleted 903 rows from nowhere
+% Created hash index for table discipline on column blame	% Created hash index for table discipline on column blame
+% Added 396 rows to historic from position 0 to 395		% Added 396 rows to historic from position 0 to 395
+% Printed 854 rows from joining area to album		      |	% Printed 522 rows from joining area to album
+% Printed 321 matching rows from prior				% Printed 321 matching rows from prior
+% Added 325 rows to album from position 3151 to 3475	      |	% Added 325 rows to album from position 1920 to 2244
+% Added 394 rows to prior from position 321 to 714		% Added 394 rows to prior from position 321 to 714
+% Added 336 rows to prior from position 715 to 1050		% Added 336 rows to prior from position 715 to 1050
+% Added 361 rows to vulnerable from position 395 to 755	      |	% Added 361 rows to vulnerable from position 253 to 613
+% Added 376 rows to historic from position 396 to 771		% Added 376 rows to historic from position 396 to 771
+% Added 320 rows to pay from position 332 to 651		% Added 320 rows to pay from position 332 to 651
+% New table sensitivity with column(s) contribution position 	% New table sensitivity with column(s) contribution position 
+% New table grandchild with column(s) onion commonly miss hig	% New table grandchild with column(s) onion commonly miss hig
+% Printed 0 matching rows from inform				% Printed 0 matching rows from inform
+% Deleted 0 rows from pretend					% Deleted 0 rows from pretend
+% Created bst index for table pole on column differently	% Created bst index for table pole on column differently
+% Printed 293587 rows from joining employ to expertise	      |	% Printed 442813 rows from joining employ to expertise
+% Added 379 rows to sue from position 0 to 378			% Added 379 rows to sue from position 0 to 378
+% Printed 346 matching rows from current			% Printed 346 matching rows from current
+% Printed 2457071 rows from joining album to expertise	      |	% Printed 2389394 rows from joining album to expertise
+% Deleted 650 rows from area					% Deleted 650 rows from area
+% Created bst index for table album on column slip		% Created bst index for table album on column slip
+% Printed 417 matching rows from essential			% Printed 417 matching rows from essential
+% Added 314 rows to sensitivity from position 0 to 313		% Added 314 rows to sensitivity from position 0 to 313
+% Printed 1133260 rows from joining album to pay	      |	% Printed 732472 rows from joining album to pay
+% Added 322 rows to pretend from position 0 to 321		% Added 322 rows to pretend from position 0 to 321
+% New table maybe with column(s) forever purpose commission r	% New table maybe with column(s) forever purpose commission r
+% Printed 3107 matching rows from album			      |	% Printed 2016 matching rows from album
+% New table bonus with column(s) testimony secondary sleep ba	% New table bonus with column(s) testimony secondary sleep ba
+% Added 360 rows to expertise from position 1415 to 1774      |	% Added 360 rows to expertise from position 2129 to 2488
+% Printed 11 matching rows from creative			% Printed 11 matching rows from creative
+% Deleted 0 rows from employ				      |	% Deleted 205 rows from employ
+% Printed 122 rows from joining vulnerable to vulnerable      |	% Printed 79 rows from joining vulnerable to vulnerable
+% Printed 0 matching rows from grandchild			% Printed 0 matching rows from grandchild
+% Added 334 rows to waist from position 381 to 714		% Added 334 rows to waist from position 381 to 714
+% Printed 278 matching rows from vulnerable		      |	% Printed 195 matching rows from vulnerable
+% Table inform deleted						% Table inform deleted
+% Added 389 rows to businessman from position 373 to 761	% Added 389 rows to businessman from position 373 to 761
+% Printed 7 rows from joining soul to contractor	      |	% Printed 6 rows from joining soul to contractor
+% Deleted 0 rows from discipline			      |	% Deleted 675 rows from discipline
+% Added 356 rows to waist from position 715 to 1070		% Added 356 rows to waist from position 715 to 1070
+% Printed 1167 matching rows from nowhere			% Printed 1167 matching rows from nowhere
+% Printed 367 matching rows from interval			% Printed 367 matching rows from interval
+% Created hash index for table waist on column consistently	% Created hash index for table waist on column consistently
+% Printed 1390 matching rows from soul				% Printed 1390 matching rows from soul
+% Thanks for being silly!					% Thanks for being silly!

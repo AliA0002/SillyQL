@@ -1,0 +1,35 @@
+CREATE test 1 int score
+CREATE test 1 string name
+INSERT INTO test 4 ROWS
+4
+6
+55
+621
+INSERT INTO table2 5 ROWS
+2
+4
+6
+2
+5
+What is this?
+#this is a comment
+#another comment test
+DELETE FROM table2 WHERE score = 5
+DELETE FROM test WHERE name = addie
+GENERATE FOR table2 bst INDEX on score
+GENERATE FOR test hash INDEX on name
+PRINT FROM table2 1 name WHERE name = addie
+PRINT FROM test 1 name WHERE score > 3
+PRINT FROM test 1 score WHERE name = bob
+JOIN test AND table2 WHERE score = score AND PRINT 1 score 1
+JOIN test AND test WHERE name = name AND PRINT 1 score 1
+JOIN test AND test WHERE score = score AND PRINT 1 name 1
+JOIN test AND test WHERE score = score AND PRINT 1 score 1
+CREATE table2 1 int weight
+JOIN test AND table2 WHERE score = weight AND PRINT 1 score 2
+JOIN table2 AND test WHERE weight = score AND PRINT 1 weight 2
+JOIN test AND table2 WHERE score = weight AND PRINT 2 score 1 weight 2
+REMOVE table2
+REMOVE table3
+REMOVE test
+QUIT

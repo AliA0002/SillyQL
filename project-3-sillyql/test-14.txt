@@ -1,0 +1,30 @@
+CREATE THEtable 1 string weight
+INSERT INTO THEtable 4 ROWS
+5
+4
+3
+2
+DELETE FROM THEtable WHERE weight > 3
+PRINT FROM THEtable 1 weight ALL
+DELETE FROM THEtable WHERE weight = 4
+PRINT FROM THEtable 1 weight ALL
+CREATE secondarytable 4 string string string string comedy weight weight name
+INSERT INTO secondarytable 4 ROWS
+true 12 15.3 steven
+false 20 200 steven
+true 53 600 thomas
+false 2 20 billy
+INSERT INTO secondarytable 1 ROWS
+false 100 90 frank
+PRINT FROM secondarytable 4 name weight weight comedy ALL
+DELETE FROM secondarytable WHERE weight > true
+PRINT FROM secondarytable 4 name weight weight comedy ALL
+DELETE FROM secondarytable WHERE name < 53
+PRINT FROM secondarytable 4 name weight weight comedy ALL
+DELETE FROM secondarytable WHERE comedy > false
+PRINT FROM secondarytable 4 name weight weight comedy ALL
+DELETE FROM secondarytable WHERE weight = 20
+PRINT FROM secondarytable 4 name weight weight comedy ALL
+REMOVE secondarytable
+REMOVE THEtable
+QUIT

@@ -1,0 +1,11 @@
+CREATE table1 2 int int num1 num2
+INSERT INTO table1 5 ROWS
+22 22
+22 22
+22 22
+22 22
+22 23
+GENERATE FOR table1 bst INDEX ON num2
+PRINT FROM table1 2 num2 num1 WHERE num2 = 23
+REMOVE table1
+QUIT

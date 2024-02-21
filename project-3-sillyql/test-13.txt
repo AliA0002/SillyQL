@@ -1,0 +1,20 @@
+#testing join with the same table
+CREATE test 6 bool int int string double string is_not length height yes height the_name
+INSERT INTO test 5 ROWS 
+true 10 200 matt 5.5 matt
+false 50 400 tim 5.4 smith
+true 30 400 frank 5.7 frank
+false 20 125 tina 5.3 farm
+true 40 130 billy 6.2 mama
+JOIN test AND test WHERE yes = the_name AND PRINT 2 yes 1 the_name 2
+JOIN test AND test WHERE height = height AND PRINT 2 yes 1 height 1
+#testing insert and delete after generating index
+GENERATE FOR test bst INDEX ON length
+INSERT INTO test 3 ROWS
+true 10 200 matt 5.5 matt
+false 100 100 bert 6.7 mills
+false 30 100 donald 6.4 duck
+PRINT FROM test 2 yes the_name WHERE length > 30
+DELETE FROM test WHERE is_not = false
+PRINT FROM test 2 yes the_name WHERE length > 30
+QUIT

@@ -1,0 +1,19 @@
+#test 4
+CREATE table1 3 string int bool animal length yes
+INSERT INTO table1 3 ROWS
+cat 4 true
+dog 5 true
+bird 10 true
+PRINT FROM table1 3 yes length animal ALL
+DELETE FROM table1 WHERE animal = bird
+PRINT FROM table1 2 yes animal ALL
+INSERT INTO table1 2 ROWS
+cat 2 true
+lizard 10 true
+PRINT FROM table1 3 length yes animal ALL
+DELETE FROM table1 WHERE length = 10
+PRINT FROM table1 3 animal length yes ALL
+DELETE FROM table1 WHERE yes = true
+PRINT FROM table1 3 animal length yes ALL
+REMOVE table1
+QUIT

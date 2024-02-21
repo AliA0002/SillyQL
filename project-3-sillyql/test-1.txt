@@ -1,0 +1,19 @@
+#test 1
+CREATE table1 3 string int bool name number Y/N
+INSERT INTO table1 4 ROWS
+Ali 23 true
+Hasan 42 false
+Ibz 12 true
+Tubraize 59 true 
+GENERATE FOR table1 hash INDEX ON number
+PRINT FROM table1 2 name number WHERE Y/N = true
+CREATE table2 3 string int bool Name number Y/N
+INSERT INTO table2 4 ROWS
+Ibz 123 true
+Joseph 24 false
+Hasan 12 false
+Gabe 42 true
+JOIN table1 AND table2 WHERE name = name AND PRINT 3 name 1 number 2 Y/N 2
+REMOVE table1
+REMOVE table2
+QUIT

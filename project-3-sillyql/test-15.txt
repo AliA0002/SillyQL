@@ -1,0 +1,16 @@
+#test 5
+CREATE table1 1 string name
+INSERT INTO table1 4 ROWS
+Ali
+Ali
+Ali
+John
+GENERATE FOR table1 bst INDEX ON name
+INSERT INTO table1 3 ROWS
+Hasan
+Hasan
+Mark
+PRINT FROM table1 1 name WHERE name > B
+JOIN table1 AND table1 WHERE name = name AND PRINT 2 name 1 name 2
+REMOVE table1
+QUIT

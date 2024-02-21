@@ -1,0 +1,13 @@
+#test 1
+CREATE table1 3 string int bool name number Y/N
+INSERT INTO table1 5 ROWS
+Ali 23 true
+Tubraize 59 true
+Ibz 54 true
+Hasan 42 true
+Gabe 20 false
+GENERATE FOR table1 bst INDEX ON number
+PRINT FROM table1 2 name number WHERE number < 42
+REMOVE table3
+REMOVE table1
+QUIT

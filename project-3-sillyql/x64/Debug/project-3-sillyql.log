@@ -1,0 +1,23 @@
+﻿  run.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xmemory(673,1): warning C4267: 'initializing': conversion from 'size_t' to '_Objty', possible loss of data
+          with
+          [
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vector(602): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<uint32_t>,
+              _Ty=unsigned int,
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vector(607): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<uint32_t>,
+              _Ty=unsigned int,
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vector(620): message : see reference to function template instantiation 'void std::vector<uint32_t,std::allocator<uint32_t>>::_Emplace_back_with_unused_capacity<size_t&>(size_t &)' being compiled
+C:\Users\alial\Desktop\School Files\eecs-281-w22\project-3-sillyql\project-3-sillyql\run.cpp(230): message : see reference to function template instantiation 'void std::vector<uint32_t,std::allocator<uint32_t>>::emplace_back<size_t&>(size_t &)' being compiled
+  project-3-sillyql.vcxproj -> C:\Users\alial\Desktop\School Files\eecs-281-w22\project-3-sillyql\x64\Debug\project-3-sillyql.exe

@@ -1,0 +1,27 @@
+#Using hash
+CREATE table1 3 string string bool emotion person Y/N
+INSERT INTO table1 8 ROWS
+happy Matt true
+happy students false
+busy office_hours true
+happy students true
+happy Paoletti true
+happy Matt true
+happy Jedi true
+victorious Jedi true
+GENERATE FOR table1 bst INDEX ON emotion
+#just a little comment
+PRINT FROM table1 3 person emotion Y/N WHERE emotion = happy
+PRINT FROM table1 3 person emotion Y/N WHERE emotion < victorious
+PRINT from table1 3 person emotion Y/N WHERE emotion > busy
+DELETE FROM table1 WHERE emotion = Matt
+PRINT FROM table1 3 person emotion Y/N WHERE emotion = happy
+PRINT FROM table1 3 person emotion Y/N WHERE emotion < victorious
+PRINT from table1 3 person emotion Y/N WHERE emotion > busy
+INSERT INTO table1 2 ROWS
+angry Matt true
+mad Mary false
+PRINT FROM table1 3 person emotion Y/N WHERE emotion = happy
+PRINT FROM table1 3 person emotion Y/N WHERE emotion < victorious
+PRINT from table1 3 person emotion Y/N WHERE emotion > busy
+QUIT

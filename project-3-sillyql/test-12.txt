@@ -1,0 +1,17 @@
+#switch index
+CREATE table1 3 string string bool emotion person Y/N
+INSERT INTO table1 8 ROWS
+agitated ali true
+stressed teachers false
+busy office_hours true
+stressed teachers true
+stressed Paoletti true
+agitated ali true
+agitated Jedi true
+victorious Jedi true
+PRINT FROM table1 3 person emotion Y/N WHERE emotion > busy
+GENERATE FOR table1 bst INDEX ON emotion
+PRINT FROM table1 3 person emotion Y/N WHERE emotion > busy
+GENERATE FOR table1 hash INDEX ON emotion
+PRINT FROM table1 3 person emotion Y/N WHERE emotion > busy
+QUIT

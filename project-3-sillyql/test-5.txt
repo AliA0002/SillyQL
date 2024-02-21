@@ -1,0 +1,19 @@
+#test 5
+CREATE table1 3 bool bool bool gamer legend yes
+INSERT INTO table1 6 ROWS
+true true true
+false false false
+true false true
+false true false
+true true false
+false false true
+GENERATE FOR table1 bst INDEX ON gamer
+INSERT INTO table1 2 ROWS
+false true true
+true false false
+PRINT FROM table1 2 gamer legend WHERE yes = true
+GENERATE FOR table1 hash INDEX ON gamer
+DELETE FROM table1 WHERE gamer = false
+PRINT FROM table1 2 gamer yes WHERE gamer = true
+REMOVE table1
+QUIT

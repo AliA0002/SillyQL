@@ -1,0 +1,20 @@
+#test 5
+CREATE table1 4 int double bool string number doub yn name
+INSERT INTO table1 4 ROWS
+22 12.2 true Ali
+23 21.2 false Tubraize
+52 214.4 true Ibz
+12 241.2 true Hasan
+GENERATE FOR table1 bst INDEX ON doub
+INSERT INTO table1 3 ROWS
+42 12.4 true Martin
+12 56.3 false Joseph
+12 56.3 false Joseph
+PRINT FROM table1 4 name doub number yn WHERE doub > 14.2
+GENERATE FOR table1 hash INDEX ON name
+DELETE FROM table1 WHERE yn = false
+PRINT FROM table1 2 number doub yn name WHERE name = Ali
+DELETE FROM table1 WHERE number < 100
+PRINT FROM table1 1 name WHERE name = Ali
+REMOVE table1
+QUIT
